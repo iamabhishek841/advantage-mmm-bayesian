@@ -1,0 +1,5942 @@
+[
+  {
+    "spend_multiplier": 0.0,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 0.0,
+    "incremental_outcome_ci_lo": 0.0,
+    "incremental_outcome_mean": 0.0,
+    "spend": 0.0,
+    "weekly_spend": 0.0
+  },
+  {
+    "spend_multiplier": 0.0,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 0.0,
+    "incremental_outcome_ci_lo": 0.0,
+    "incremental_outcome_mean": 0.0,
+    "spend": 0.0,
+    "weekly_spend": 0.0
+  },
+  {
+    "spend_multiplier": 0.0,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 0.0,
+    "incremental_outcome_ci_lo": 0.0,
+    "incremental_outcome_mean": 0.0,
+    "spend": 0.0,
+    "weekly_spend": 0.0
+  },
+  {
+    "spend_multiplier": 0.01,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 5036.81396484375,
+    "incremental_outcome_ci_lo": 3716.407470703125,
+    "incremental_outcome_mean": 4292.49560546875,
+    "spend": 4427.169921875,
+    "weekly_spend": 22.135848999023438
+  },
+  {
+    "spend_multiplier": 0.01,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 8423.8232421875,
+    "incremental_outcome_ci_lo": 5311.2890625,
+    "incremental_outcome_mean": 6520.0546875,
+    "spend": 3041.44580078125,
+    "weekly_spend": 15.207228660583496
+  },
+  {
+    "spend_multiplier": 0.01,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 7148.8203125,
+    "incremental_outcome_ci_lo": 5926.7060546875,
+    "incremental_outcome_mean": 6517.94384765625,
+    "spend": 5892.4150390625,
+    "weekly_spend": 29.462074279785156
+  },
+  {
+    "spend_multiplier": 0.02,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 10005.9951171875,
+    "incremental_outcome_ci_lo": 7407.6025390625,
+    "incremental_outcome_mean": 8544.294921875,
+    "spend": 8854.33984375,
+    "weekly_spend": 44.271697998046875
+  },
+  {
+    "spend_multiplier": 0.02,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 16662.39453125,
+    "incremental_outcome_ci_lo": 10581.6044921875,
+    "incremental_outcome_mean": 12951.3916015625,
+    "spend": 6082.8916015625,
+    "weekly_spend": 30.414457321166992
+  },
+  {
+    "spend_multiplier": 0.02,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 14229.1142578125,
+    "incremental_outcome_ci_lo": 11822.2734375,
+    "incremental_outcome_mean": 12986.4609375,
+    "spend": 11784.830078125,
+    "weekly_spend": 58.92414855957031
+  },
+  {
+    "spend_multiplier": 0.03,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 14910.0625,
+    "incremental_outcome_ci_lo": 11072.8095703125,
+    "incremental_outcome_mean": 12756.1103515625,
+    "spend": 13281.509765625,
+    "weekly_spend": 66.40754699707031
+  },
+  {
+    "spend_multiplier": 0.03,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 24716.109375,
+    "incremental_outcome_ci_lo": 15810.3828125,
+    "incremental_outcome_mean": 19296.126953125,
+    "spend": 9124.337890625,
+    "weekly_spend": 45.62168884277344
+  },
+  {
+    "spend_multiplier": 0.03,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 21242.6171875,
+    "incremental_outcome_ci_lo": 17678.724609375,
+    "incremental_outcome_mean": 19406.26953125,
+    "spend": 17677.244140625,
+    "weekly_spend": 88.38622283935547
+  },
+  {
+    "spend_multiplier": 0.04,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 19747.486328125,
+    "incremental_outcome_ci_lo": 14716.1748046875,
+    "incremental_outcome_mean": 16928.599609375,
+    "spend": 17708.6796875,
+    "weekly_spend": 88.54339599609375
+  },
+  {
+    "spend_multiplier": 0.04,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 32606.9140625,
+    "incremental_outcome_ci_lo": 21004.052734375,
+    "incremental_outcome_mean": 25556.265625,
+    "spend": 12165.783203125,
+    "weekly_spend": 60.828914642333984
+  },
+  {
+    "spend_multiplier": 0.04,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 28184.560546875,
+    "incremental_outcome_ci_lo": 23505.74609375,
+    "incremental_outcome_mean": 25778.068359375,
+    "spend": 23569.66015625,
+    "weekly_spend": 117.84829711914062
+  },
+  {
+    "spend_multiplier": 0.05,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 24515.9765625,
+    "incremental_outcome_ci_lo": 18329.45703125,
+    "incremental_outcome_mean": 21062.37890625,
+    "spend": 22135.849609375,
+    "weekly_spend": 110.67924499511719
+  },
+  {
+    "spend_multiplier": 0.05,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 40333.69140625,
+    "incremental_outcome_ci_lo": 26146.02734375,
+    "incremental_outcome_mean": 31733.8203125,
+    "spend": 15207.2294921875,
+    "weekly_spend": 76.03614807128906
+  },
+  {
+    "spend_multiplier": 0.05,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 35066.74609375,
+    "incremental_outcome_ci_lo": 29307.923828125,
+    "incremental_outcome_mean": 32102.369140625,
+    "spend": 29462.076171875,
+    "weekly_spend": 147.3103790283203
+  },
+  {
+    "spend_multiplier": 0.06,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 29227.958984375,
+    "incremental_outcome_ci_lo": 21932.2578125,
+    "incremental_outcome_mean": 25158.20703125,
+    "spend": 26563.01953125,
+    "weekly_spend": 132.81509399414062
+  },
+  {
+    "spend_multiplier": 0.06,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 47910.1796875,
+    "incremental_outcome_ci_lo": 31244.4140625,
+    "incremental_outcome_mean": 37830.50390625,
+    "spend": 18248.67578125,
+    "weekly_spend": 91.24337768554688
+  },
+  {
+    "spend_multiplier": 0.06,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 41887.46875,
+    "incremental_outcome_ci_lo": 35071.19921875,
+    "incremental_outcome_mean": 38380.0234375,
+    "spend": 35354.48828125,
+    "weekly_spend": 176.77244567871094
+  },
+  {
+    "spend_multiplier": 0.07,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 33885.65234375,
+    "incremental_outcome_ci_lo": 25506.2578125,
+    "incremental_outcome_mean": 29216.607421875,
+    "spend": 30990.189453125,
+    "weekly_spend": 154.95094299316406
+  },
+  {
+    "spend_multiplier": 0.07,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 55296.65234375,
+    "incremental_outcome_ci_lo": 36325.44140625,
+    "incremental_outcome_mean": 43848.5234375,
+    "spend": 21290.12109375,
+    "weekly_spend": 106.45060729980469
+  },
+  {
+    "spend_multiplier": 0.07,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 48646.671875,
+    "incremental_outcome_ci_lo": 40794.01171875,
+    "incremental_outcome_mean": 44611.6015625,
+    "spend": 41246.90625,
+    "weekly_spend": 206.23452758789062
+  },
+  {
+    "spend_multiplier": 0.08,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 38456.7578125,
+    "incremental_outcome_ci_lo": 29056.76171875,
+    "incremental_outcome_mean": 33238.22265625,
+    "spend": 35417.359375,
+    "weekly_spend": 177.0867919921875
+  },
+  {
+    "spend_multiplier": 0.08,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 62620.2109375,
+    "incremental_outcome_ci_lo": 41356.4765625,
+    "incremental_outcome_mean": 49789.2265625,
+    "spend": 24331.56640625,
+    "weekly_spend": 121.65782928466797
+  },
+  {
+    "spend_multiplier": 0.08,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 55322.8046875,
+    "incremental_outcome_ci_lo": 46479.91015625,
+    "incremental_outcome_mean": 50797.61328125,
+    "spend": 47139.3203125,
+    "weekly_spend": 235.69659423828125
+  },
+  {
+    "spend_multiplier": 0.09,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 42996.37890625,
+    "incremental_outcome_ci_lo": 32580.888671875,
+    "incremental_outcome_mean": 37223.5546875,
+    "spend": 39844.53125,
+    "weekly_spend": 199.22265625
+  },
+  {
+    "spend_multiplier": 0.09,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 69693.71875,
+    "incremental_outcome_ci_lo": 46350.35546875,
+    "incremental_outcome_mean": 55654.35546875,
+    "spend": 27373.013671875,
+    "weekly_spend": 136.8650665283203
+  },
+  {
+    "spend_multiplier": 0.09,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 61958.19921875,
+    "incremental_outcome_ci_lo": 52129.546875,
+    "incremental_outcome_mean": 56938.9765625,
+    "spend": 53031.73828125,
+    "weekly_spend": 265.15869140625
+  },
+  {
+    "spend_multiplier": 0.1,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 47466.9375,
+    "incremental_outcome_ci_lo": 36091.29296875,
+    "incremental_outcome_mean": 41173.4296875,
+    "spend": 44271.69921875,
+    "weekly_spend": 221.35848999023438
+  },
+  {
+    "spend_multiplier": 0.1,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 76687.09375,
+    "incremental_outcome_ci_lo": 51311.19140625,
+    "incremental_outcome_mean": 61445.72265625,
+    "spend": 30414.458984375,
+    "weekly_spend": 152.07229614257812
+  },
+  {
+    "spend_multiplier": 0.1,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 68558.125,
+    "incremental_outcome_ci_lo": 57749.22265625,
+    "incremental_outcome_mean": 63036.02734375,
+    "spend": 58924.15234375,
+    "weekly_spend": 294.6207580566406
+  },
+  {
+    "spend_multiplier": 0.11,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 51905.98828125,
+    "incremental_outcome_ci_lo": 39560.69921875,
+    "incremental_outcome_mean": 45088.109375,
+    "spend": 48698.87109375,
+    "weekly_spend": 243.49435424804688
+  },
+  {
+    "spend_multiplier": 0.11,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 83596.8515625,
+    "incremental_outcome_ci_lo": 56224.46484375,
+    "incremental_outcome_mean": 67164.7890625,
+    "spend": 33455.90625,
+    "weekly_spend": 167.27952575683594
+  },
+  {
+    "spend_multiplier": 0.11,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 75088.28125,
+    "incremental_outcome_ci_lo": 63350.40625,
+    "incremental_outcome_mean": 69089.296875,
+    "spend": 64816.56640625,
+    "weekly_spend": 324.08282470703125
+  },
+  {
+    "spend_multiplier": 0.12,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 56289.7578125,
+    "incremental_outcome_ci_lo": 43022.80078125,
+    "incremental_outcome_mean": 48968.296875,
+    "spend": 53126.0390625,
+    "weekly_spend": 265.63018798828125
+  },
+  {
+    "spend_multiplier": 0.12,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 90389.203125,
+    "incremental_outcome_ci_lo": 61104.75390625,
+    "incremental_outcome_mean": 72813.296875,
+    "spend": 36497.3515625,
+    "weekly_spend": 182.48675537109375
+  },
+  {
+    "spend_multiplier": 0.12,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 81553.390625,
+    "incremental_outcome_ci_lo": 68930.5078125,
+    "incremental_outcome_mean": 75099.671875,
+    "spend": 70708.9765625,
+    "weekly_spend": 353.5448913574219
+  },
+  {
+    "spend_multiplier": 0.13,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 60629.73828125,
+    "incremental_outcome_ci_lo": 46478.51171875,
+    "incremental_outcome_mean": 52814.67578125,
+    "spend": 57553.20703125,
+    "weekly_spend": 287.7660217285156
+  },
+  {
+    "spend_multiplier": 0.13,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 97002.4609375,
+    "incremental_outcome_ci_lo": 65953.921875,
+    "incremental_outcome_mean": 78392.3828125,
+    "spend": 39538.796875,
+    "weekly_spend": 197.69398498535156
+  },
+  {
+    "spend_multiplier": 0.13,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 87970.1953125,
+    "incremental_outcome_ci_lo": 74483.546875,
+    "incremental_outcome_mean": 81067.3984375,
+    "spend": 76601.390625,
+    "weekly_spend": 383.0069580078125
+  },
+  {
+    "spend_multiplier": 0.14,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 64888.85546875,
+    "incremental_outcome_ci_lo": 49880.66015625,
+    "incremental_outcome_mean": 56627.46875,
+    "spend": 61980.37890625,
+    "weekly_spend": 309.9018859863281
+  },
+  {
+    "spend_multiplier": 0.14,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 103490.0546875,
+    "incremental_outcome_ci_lo": 70748.203125,
+    "incremental_outcome_mean": 83903.7734375,
+    "spend": 42580.2421875,
+    "weekly_spend": 212.90121459960938
+  },
+  {
+    "spend_multiplier": 0.14,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 94322.1328125,
+    "incremental_outcome_ci_lo": 79987.0703125,
+    "incremental_outcome_mean": 86993.015625,
+    "spend": 82493.8125,
+    "weekly_spend": 412.46905517578125
+  },
+  {
+    "spend_multiplier": 0.15,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 69119.40625,
+    "incremental_outcome_ci_lo": 53281.04296875,
+    "incremental_outcome_mean": 60407.28515625,
+    "spend": 66407.5546875,
+    "weekly_spend": 332.03778076171875
+  },
+  {
+    "spend_multiplier": 0.15,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 109836.1953125,
+    "incremental_outcome_ci_lo": 75514.5078125,
+    "incremental_outcome_mean": 89348.34375,
+    "spend": 45621.69140625,
+    "weekly_spend": 228.10845947265625
+  },
+  {
+    "spend_multiplier": 0.15,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 100624.3828125,
+    "incremental_outcome_ci_lo": 85437.1796875,
+    "incremental_outcome_mean": 92877.5546875,
+    "spend": 88386.2265625,
+    "weekly_spend": 441.9311218261719
+  },
+  {
+    "spend_multiplier": 0.16,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 73303.46875,
+    "incremental_outcome_ci_lo": 56663.6875,
+    "incremental_outcome_mean": 64154.984375,
+    "spend": 70834.71875,
+    "weekly_spend": 354.173583984375
+  },
+  {
+    "spend_multiplier": 0.16,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 116122.3203125,
+    "incremental_outcome_ci_lo": 80266.3046875,
+    "incremental_outcome_mean": 94728.4296875,
+    "spend": 48663.1328125,
+    "weekly_spend": 243.31565856933594
+  },
+  {
+    "spend_multiplier": 0.16,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 106885.3671875,
+    "incremental_outcome_ci_lo": 90907.7421875,
+    "incremental_outcome_mean": 98720.9375,
+    "spend": 94278.640625,
+    "weekly_spend": 471.3931884765625
+  },
+  {
+    "spend_multiplier": 0.17,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 77422.640625,
+    "incremental_outcome_ci_lo": 60019.0859375,
+    "incremental_outcome_mean": 67870.5390625,
+    "spend": 75261.890625,
+    "weekly_spend": 376.3094482421875
+  },
+  {
+    "spend_multiplier": 0.17,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 122342.015625,
+    "incremental_outcome_ci_lo": 84981.28125,
+    "incremental_outcome_mean": 100044.3828125,
+    "spend": 51704.58203125,
+    "weekly_spend": 258.5229187011719
+  },
+  {
+    "spend_multiplier": 0.17,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 113058.9765625,
+    "incremental_outcome_ci_lo": 96309.40625,
+    "incremental_outcome_mean": 104524.0390625,
+    "spend": 100171.0546875,
+    "weekly_spend": 500.85528564453125
+  },
+  {
+    "spend_multiplier": 0.18,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 81483.21875,
+    "incremental_outcome_ci_lo": 63359.0859375,
+    "incremental_outcome_mean": 71554.6796875,
+    "spend": 79689.0625,
+    "weekly_spend": 398.4453125
+  },
+  {
+    "spend_multiplier": 0.18,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 128435.65625,
+    "incremental_outcome_ci_lo": 89633.2109375,
+    "incremental_outcome_mean": 105297.8984375,
+    "spend": 54746.02734375,
+    "weekly_spend": 273.7301330566406
+  },
+  {
+    "spend_multiplier": 0.18,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 119212.734375,
+    "incremental_outcome_ci_lo": 101667.5390625,
+    "incremental_outcome_mean": 110287.4921875,
+    "spend": 106063.4765625,
+    "weekly_spend": 530.3173828125
+  },
+  {
+    "spend_multiplier": 0.19,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 85481.40625,
+    "incremental_outcome_ci_lo": 66674.703125,
+    "incremental_outcome_mean": 75207.7734375,
+    "spend": 84116.2265625,
+    "weekly_spend": 420.5811462402344
+  },
+  {
+    "spend_multiplier": 0.19,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 134349.515625,
+    "incremental_outcome_ci_lo": 94278.125,
+    "incremental_outcome_mean": 110490.359375,
+    "spend": 57787.47265625,
+    "weekly_spend": 288.9373779296875
+  },
+  {
+    "spend_multiplier": 0.19,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 125307.78125,
+    "incremental_outcome_ci_lo": 107023.484375,
+    "incremental_outcome_mean": 116011.46875,
+    "spend": 111955.8828125,
+    "weekly_spend": 559.7794189453125
+  },
+  {
+    "spend_multiplier": 0.2,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 89432.3984375,
+    "incremental_outcome_ci_lo": 69956.78125,
+    "incremental_outcome_mean": 78830.4453125,
+    "spend": 88543.3984375,
+    "weekly_spend": 442.71697998046875
+  },
+  {
+    "spend_multiplier": 0.2,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 140082.421875,
+    "incremental_outcome_ci_lo": 98882.8125,
+    "incremental_outcome_mean": 115622.5859375,
+    "spend": 60828.91796875,
+    "weekly_spend": 304.14459228515625
+  },
+  {
+    "spend_multiplier": 0.2,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 131362.171875,
+    "incremental_outcome_ci_lo": 112377.1328125,
+    "incremental_outcome_mean": 121696.4453125,
+    "spend": 117848.3046875,
+    "weekly_spend": 589.2415161132812
+  },
+  {
+    "spend_multiplier": 0.21,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 93385.6171875,
+    "incremental_outcome_ci_lo": 73197.890625,
+    "incremental_outcome_mean": 82423.1875,
+    "spend": 92970.5703125,
+    "weekly_spend": 464.85284423828125
+  },
+  {
+    "spend_multiplier": 0.21,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 145808.984375,
+    "incremental_outcome_ci_lo": 103457.65625,
+    "incremental_outcome_mean": 120695.7109375,
+    "spend": 63870.36328125,
+    "weekly_spend": 319.351806640625
+  },
+  {
+    "spend_multiplier": 0.21,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 137369.828125,
+    "incremental_outcome_ci_lo": 117645.4921875,
+    "incremental_outcome_mean": 127343.015625,
+    "spend": 123740.7109375,
+    "weekly_spend": 618.7035522460938
+  },
+  {
+    "spend_multiplier": 0.22,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 97265.0,
+    "incremental_outcome_ci_lo": 76433.5078125,
+    "incremental_outcome_mean": 85986.0390625,
+    "spend": 97397.7421875,
+    "weekly_spend": 486.98870849609375
+  },
+  {
+    "spend_multiplier": 0.22,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 151467.984375,
+    "incremental_outcome_ci_lo": 108001.609375,
+    "incremental_outcome_mean": 125711.1875,
+    "spend": 66911.8125,
+    "weekly_spend": 334.5590515136719
+  },
+  {
+    "spend_multiplier": 0.22,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 143348.921875,
+    "incremental_outcome_ci_lo": 122880.34375,
+    "incremental_outcome_mean": 132952.078125,
+    "spend": 129633.1328125,
+    "weekly_spend": 648.1656494140625
+  },
+  {
+    "spend_multiplier": 0.23,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 101097.296875,
+    "incremental_outcome_ci_lo": 79665.9921875,
+    "incremental_outcome_mean": 89519.7734375,
+    "spend": 101824.9140625,
+    "weekly_spend": 509.12457275390625
+  },
+  {
+    "spend_multiplier": 0.23,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 156958.625,
+    "incremental_outcome_ci_lo": 112410.5859375,
+    "incremental_outcome_mean": 130669.9375,
+    "spend": 69953.2578125,
+    "weekly_spend": 349.76629638671875
+  },
+  {
+    "spend_multiplier": 0.23,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 149255.71875,
+    "incremental_outcome_ci_lo": 128117.140625,
+    "incremental_outcome_mean": 138523.40625,
+    "spend": 135525.546875,
+    "weekly_spend": 677.6277465820312
+  },
+  {
+    "spend_multiplier": 0.24,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 104857.03125,
+    "incremental_outcome_ci_lo": 82859.8828125,
+    "incremental_outcome_mean": 93024.984375,
+    "spend": 106252.078125,
+    "weekly_spend": 531.2603759765625
+  },
+  {
+    "spend_multiplier": 0.24,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 162370.515625,
+    "incremental_outcome_ci_lo": 116870.2109375,
+    "incremental_outcome_mean": 135572.96875,
+    "spend": 72994.703125,
+    "weekly_spend": 364.9735107421875
+  },
+  {
+    "spend_multiplier": 0.24,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 155136.859375,
+    "incremental_outcome_ci_lo": 133308.484375,
+    "incremental_outcome_mean": 144057.84375,
+    "spend": 141417.953125,
+    "weekly_spend": 707.0897827148438
+  },
+  {
+    "spend_multiplier": 0.25,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 108684.34375,
+    "incremental_outcome_ci_lo": 86066.1484375,
+    "incremental_outcome_mean": 96501.671875,
+    "spend": 110679.25,
+    "weekly_spend": 553.396240234375
+  },
+  {
+    "spend_multiplier": 0.25,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 167728.15625,
+    "incremental_outcome_ci_lo": 121276.203125,
+    "incremental_outcome_mean": 140421.484375,
+    "spend": 76036.1484375,
+    "weekly_spend": 380.1807556152344
+  },
+  {
+    "spend_multiplier": 0.25,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 160907.953125,
+    "incremental_outcome_ci_lo": 138543.9375,
+    "incremental_outcome_mean": 149555.765625,
+    "spend": 147310.375,
+    "weekly_spend": 736.5518798828125
+  },
+  {
+    "spend_multiplier": 0.26,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 112366.4765625,
+    "incremental_outcome_ci_lo": 89209.609375,
+    "incremental_outcome_mean": 99950.3828125,
+    "spend": 115106.4140625,
+    "weekly_spend": 575.5320434570312
+  },
+  {
+    "spend_multiplier": 0.26,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 172999.765625,
+    "incremental_outcome_ci_lo": 125687.8984375,
+    "incremental_outcome_mean": 145216.5,
+    "spend": 79077.59375,
+    "weekly_spend": 395.3879699707031
+  },
+  {
+    "spend_multiplier": 0.26,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 166731.8125,
+    "incremental_outcome_ci_lo": 143725.671875,
+    "incremental_outcome_mean": 155017.765625,
+    "spend": 153202.78125,
+    "weekly_spend": 766.013916015625
+  },
+  {
+    "spend_multiplier": 0.27,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 116043.3828125,
+    "incremental_outcome_ci_lo": 92344.8046875,
+    "incremental_outcome_mean": 103371.6328125,
+    "spend": 119533.59375,
+    "weekly_spend": 597.66796875
+  },
+  {
+    "spend_multiplier": 0.27,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 178218.140625,
+    "incremental_outcome_ci_lo": 130050.2109375,
+    "incremental_outcome_mean": 149958.640625,
+    "spend": 82119.046875,
+    "weekly_spend": 410.5952453613281
+  },
+  {
+    "spend_multiplier": 0.27,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 172502.609375,
+    "incremental_outcome_ci_lo": 148892.0,
+    "incremental_outcome_mean": 160443.734375,
+    "spend": 159095.21875,
+    "weekly_spend": 795.47607421875
+  },
+  {
+    "spend_multiplier": 0.28,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 119706.84375,
+    "incremental_outcome_ci_lo": 95478.6640625,
+    "incremental_outcome_mean": 106765.5859375,
+    "spend": 123960.7578125,
+    "weekly_spend": 619.8037719726562
+  },
+  {
+    "spend_multiplier": 0.28,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 183359.59375,
+    "incremental_outcome_ci_lo": 134359.140625,
+    "incremental_outcome_mean": 154649.28125,
+    "spend": 85160.484375,
+    "weekly_spend": 425.80242919921875
+  },
+  {
+    "spend_multiplier": 0.28,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 178165.953125,
+    "incremental_outcome_ci_lo": 153999.515625,
+    "incremental_outcome_mean": 165834.421875,
+    "spend": 164987.625,
+    "weekly_spend": 824.9381103515625
+  },
+  {
+    "spend_multiplier": 0.29,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 123269.390625,
+    "incremental_outcome_ci_lo": 98594.0546875,
+    "incremental_outcome_mean": 110133.0,
+    "spend": 128387.9296875,
+    "weekly_spend": 641.9396362304688
+  },
+  {
+    "spend_multiplier": 0.29,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 188533.234375,
+    "incremental_outcome_ci_lo": 138656.46875,
+    "incremental_outcome_mean": 159289.5625,
+    "spend": 88201.9296875,
+    "weekly_spend": 441.0096435546875
+  },
+  {
+    "spend_multiplier": 0.29,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 183778.359375,
+    "incremental_outcome_ci_lo": 159015.53125,
+    "incremental_outcome_mean": 171191.21875,
+    "spend": 170880.03125,
+    "weekly_spend": 854.400146484375
+  },
+  {
+    "spend_multiplier": 0.3,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 126822.1171875,
+    "incremental_outcome_ci_lo": 101716.625,
+    "incremental_outcome_mean": 113473.7734375,
+    "spend": 132815.109375,
+    "weekly_spend": 664.0755615234375
+  },
+  {
+    "spend_multiplier": 0.3,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 193541.875,
+    "incremental_outcome_ci_lo": 142925.53125,
+    "incremental_outcome_mean": 163879.296875,
+    "spend": 91243.3828125,
+    "weekly_spend": 456.2169189453125
+  },
+  {
+    "spend_multiplier": 0.3,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 189357.875,
+    "incremental_outcome_ci_lo": 164078.0625,
+    "incremental_outcome_mean": 176512.65625,
+    "spend": 176772.453125,
+    "weekly_spend": 883.8622436523438
+  },
+  {
+    "spend_multiplier": 0.31,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 130404.515625,
+    "incremental_outcome_ci_lo": 104779.390625,
+    "incremental_outcome_mean": 116788.671875,
+    "spend": 137242.265625,
+    "weekly_spend": 686.2113037109375
+  },
+  {
+    "spend_multiplier": 0.31,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 198393.125,
+    "incremental_outcome_ci_lo": 147187.78125,
+    "incremental_outcome_mean": 168420.34375,
+    "spend": 94284.828125,
+    "weekly_spend": 471.42413330078125
+  },
+  {
+    "spend_multiplier": 0.31,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 194919.578125,
+    "incremental_outcome_ci_lo": 169136.125,
+    "incremental_outcome_mean": 181800.5625,
+    "spend": 182664.859375,
+    "weekly_spend": 913.3242797851562
+  },
+  {
+    "spend_multiplier": 0.32,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 133943.453125,
+    "incremental_outcome_ci_lo": 107845.9609375,
+    "incremental_outcome_mean": 120077.5546875,
+    "spend": 141669.4375,
+    "weekly_spend": 708.34716796875
+  },
+  {
+    "spend_multiplier": 0.32,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 203172.078125,
+    "incremental_outcome_ci_lo": 151419.578125,
+    "incremental_outcome_mean": 172913.171875,
+    "spend": 97326.265625,
+    "weekly_spend": 486.6313171386719
+  },
+  {
+    "spend_multiplier": 0.32,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 200421.546875,
+    "incremental_outcome_ci_lo": 174123.546875,
+    "incremental_outcome_mean": 187054.984375,
+    "spend": 188557.28125,
+    "weekly_spend": 942.786376953125
+  },
+  {
+    "spend_multiplier": 0.33,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 137453.46875,
+    "incremental_outcome_ci_lo": 110927.015625,
+    "incremental_outcome_mean": 123341.3671875,
+    "spend": 146096.609375,
+    "weekly_spend": 730.4830322265625
+  },
+  {
+    "spend_multiplier": 0.33,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 207825.765625,
+    "incremental_outcome_ci_lo": 155586.703125,
+    "incremental_outcome_mean": 177359.1875,
+    "spend": 100367.71875,
+    "weekly_spend": 501.8385925292969
+  },
+  {
+    "spend_multiplier": 0.33,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 205860.109375,
+    "incremental_outcome_ci_lo": 179105.765625,
+    "incremental_outcome_mean": 192276.03125,
+    "spend": 194449.703125,
+    "weekly_spend": 972.24853515625
+  },
+  {
+    "spend_multiplier": 0.34,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 140951.265625,
+    "incremental_outcome_ci_lo": 113972.5703125,
+    "incremental_outcome_mean": 126579.8984375,
+    "spend": 150523.78125,
+    "weekly_spend": 752.618896484375
+  },
+  {
+    "spend_multiplier": 0.34,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 212659.46875,
+    "incremental_outcome_ci_lo": 159724.328125,
+    "incremental_outcome_mean": 181758.421875,
+    "spend": 103409.1640625,
+    "weekly_spend": 517.0458374023438
+  },
+  {
+    "spend_multiplier": 0.34,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 211275.859375,
+    "incremental_outcome_ci_lo": 184063.0625,
+    "incremental_outcome_mean": 197463.90625,
+    "spend": 200342.109375,
+    "weekly_spend": 1001.7105712890625
+  },
+  {
+    "spend_multiplier": 0.35000000000000003,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 144368.109375,
+    "incremental_outcome_ci_lo": 117005.28125,
+    "incremental_outcome_mean": 129794.2578125,
+    "spend": 154950.953125,
+    "weekly_spend": 774.7547607421875
+  },
+  {
+    "spend_multiplier": 0.35000000000000003,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 217010.6875,
+    "incremental_outcome_ci_lo": 163868.0,
+    "incremental_outcome_mean": 186112.21875,
+    "spend": 106450.609375,
+    "weekly_spend": 532.2530517578125
+  },
+  {
+    "spend_multiplier": 0.35000000000000003,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 216695.859375,
+    "incremental_outcome_ci_lo": 189005.703125,
+    "incremental_outcome_mean": 202619.84375,
+    "spend": 206234.515625,
+    "weekly_spend": 1031.172607421875
+  },
+  {
+    "spend_multiplier": 0.36,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 147775.8125,
+    "incremental_outcome_ci_lo": 120022.2265625,
+    "incremental_outcome_mean": 132983.984375,
+    "spend": 159378.125,
+    "weekly_spend": 796.890625
+  },
+  {
+    "spend_multiplier": 0.36,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 221455.625,
+    "incremental_outcome_ci_lo": 167969.8125,
+    "incremental_outcome_mean": 190420.484375,
+    "spend": 109492.0546875,
+    "weekly_spend": 547.4602661132812
+  },
+  {
+    "spend_multiplier": 0.36,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 222088.515625,
+    "incremental_outcome_ci_lo": 193899.8125,
+    "incremental_outcome_mean": 207744.0625,
+    "spend": 212126.953125,
+    "weekly_spend": 1060.634765625
+  },
+  {
+    "spend_multiplier": 0.37,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 151153.8125,
+    "incremental_outcome_ci_lo": 122957.0703125,
+    "incremental_outcome_mean": 136149.703125,
+    "spend": 163805.296875,
+    "weekly_spend": 819.0264892578125
+  },
+  {
+    "spend_multiplier": 0.37,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 225855.515625,
+    "incremental_outcome_ci_lo": 172062.09375,
+    "incremental_outcome_mean": 194685.296875,
+    "spend": 112533.5,
+    "weekly_spend": 562.66748046875
+  },
+  {
+    "spend_multiplier": 0.37,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 227364.515625,
+    "incremental_outcome_ci_lo": 198738.828125,
+    "incremental_outcome_mean": 212835.90625,
+    "spend": 218019.359375,
+    "weekly_spend": 1090.0968017578125
+  },
+  {
+    "spend_multiplier": 0.38,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 154400.015625,
+    "incremental_outcome_ci_lo": 125893.0546875,
+    "incremental_outcome_mean": 139291.75,
+    "spend": 168232.453125,
+    "weekly_spend": 841.1622924804688
+  },
+  {
+    "spend_multiplier": 0.38,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 230274.4375,
+    "incremental_outcome_ci_lo": 176038.03125,
+    "incremental_outcome_mean": 198906.734375,
+    "spend": 115574.9453125,
+    "weekly_spend": 577.874755859375
+  },
+  {
+    "spend_multiplier": 0.38,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 232662.625,
+    "incremental_outcome_ci_lo": 203583.609375,
+    "incremental_outcome_mean": 217896.65625,
+    "spend": 223911.765625,
+    "weekly_spend": 1119.558837890625
+  },
+  {
+    "spend_multiplier": 0.39,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 157733.953125,
+    "incremental_outcome_ci_lo": 128900.9140625,
+    "incremental_outcome_mean": 142410.453125,
+    "spend": 172659.625,
+    "weekly_spend": 863.298095703125
+  },
+  {
+    "spend_multiplier": 0.39,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 234639.4375,
+    "incremental_outcome_ci_lo": 180010.9375,
+    "incremental_outcome_mean": 203085.296875,
+    "spend": 118616.390625,
+    "weekly_spend": 593.0819702148438
+  },
+  {
+    "spend_multiplier": 0.39,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 237906.59375,
+    "incremental_outcome_ci_lo": 208388.15625,
+    "incremental_outcome_mean": 222926.078125,
+    "spend": 229804.171875,
+    "weekly_spend": 1149.0208740234375
+  },
+  {
+    "spend_multiplier": 0.4,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 160948.484375,
+    "incremental_outcome_ci_lo": 131866.78125,
+    "incremental_outcome_mean": 145506.046875,
+    "spend": 177086.796875,
+    "weekly_spend": 885.4339599609375
+  },
+  {
+    "spend_multiplier": 0.4,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 238835.90625,
+    "incremental_outcome_ci_lo": 183928.90625,
+    "incremental_outcome_mean": 207221.546875,
+    "spend": 121657.8359375,
+    "weekly_spend": 608.2891845703125
+  },
+  {
+    "spend_multiplier": 0.4,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 243153.703125,
+    "incremental_outcome_ci_lo": 213159.28125,
+    "incremental_outcome_mean": 227925.25,
+    "spend": 235696.609375,
+    "weekly_spend": 1178.4830322265625
+  },
+  {
+    "spend_multiplier": 0.41000000000000003,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 164145.078125,
+    "incremental_outcome_ci_lo": 134718.90625,
+    "incremental_outcome_mean": 148578.9375,
+    "spend": 181513.96875,
+    "weekly_spend": 907.56982421875
+  },
+  {
+    "spend_multiplier": 0.41000000000000003,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 243096.0,
+    "incremental_outcome_ci_lo": 187784.71875,
+    "incremental_outcome_mean": 211316.53125,
+    "spend": 124699.28125,
+    "weekly_spend": 623.4963989257812
+  },
+  {
+    "spend_multiplier": 0.41000000000000003,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 248291.171875,
+    "incremental_outcome_ci_lo": 217878.9375,
+    "incremental_outcome_mean": 232893.453125,
+    "spend": 241589.015625,
+    "weekly_spend": 1207.945068359375
+  },
+  {
+    "spend_multiplier": 0.42,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 167243.84375,
+    "incremental_outcome_ci_lo": 137597.34375,
+    "incremental_outcome_mean": 151629.265625,
+    "spend": 185941.140625,
+    "weekly_spend": 929.7056884765625
+  },
+  {
+    "spend_multiplier": 0.42,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 247295.203125,
+    "incremental_outcome_ci_lo": 191642.15625,
+    "incremental_outcome_mean": 215371.40625,
+    "spend": 127740.7265625,
+    "weekly_spend": 638.70361328125
+  },
+  {
+    "spend_multiplier": 0.42,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 253442.71875,
+    "incremental_outcome_ci_lo": 222631.828125,
+    "incremental_outcome_mean": 237832.53125,
+    "spend": 247481.421875,
+    "weekly_spend": 1237.4071044921875
+  },
+  {
+    "spend_multiplier": 0.43,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 170470.0,
+    "incremental_outcome_ci_lo": 140425.453125,
+    "incremental_outcome_mean": 154657.484375,
+    "spend": 190368.3125,
+    "weekly_spend": 951.841552734375
+  },
+  {
+    "spend_multiplier": 0.43,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 251470.625,
+    "incremental_outcome_ci_lo": 195444.859375,
+    "incremental_outcome_mean": 219386.015625,
+    "spend": 130782.1796875,
+    "weekly_spend": 653.910888671875
+  },
+  {
+    "spend_multiplier": 0.43,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 258594.75,
+    "incremental_outcome_ci_lo": 227366.203125,
+    "incremental_outcome_mean": 242741.984375,
+    "spend": 253373.84375,
+    "weekly_spend": 1266.8692626953125
+  },
+  {
+    "spend_multiplier": 0.44,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 173688.578125,
+    "incremental_outcome_ci_lo": 143267.984375,
+    "incremental_outcome_mean": 157663.84375,
+    "spend": 194795.484375,
+    "weekly_spend": 973.9774169921875
+  },
+  {
+    "spend_multiplier": 0.44,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 255624.28125,
+    "incremental_outcome_ci_lo": 199253.578125,
+    "incremental_outcome_mean": 223361.703125,
+    "spend": 133823.625,
+    "weekly_spend": 669.1181030273438
+  },
+  {
+    "spend_multiplier": 0.44,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 263680.75,
+    "incremental_outcome_ci_lo": 232036.25,
+    "incremental_outcome_mean": 247621.765625,
+    "spend": 259266.265625,
+    "weekly_spend": 1296.331298828125
+  },
+  {
+    "spend_multiplier": 0.45,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 176714.109375,
+    "incremental_outcome_ci_lo": 146067.9375,
+    "incremental_outcome_mean": 160648.3125,
+    "spend": 199222.640625,
+    "weekly_spend": 996.1132202148438
+  },
+  {
+    "spend_multiplier": 0.45,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 259546.453125,
+    "incremental_outcome_ci_lo": 203023.109375,
+    "incremental_outcome_mean": 227298.046875,
+    "spend": 136865.0625,
+    "weekly_spend": 684.3253173828125
+  },
+  {
+    "spend_multiplier": 0.45,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 268716.84375,
+    "incremental_outcome_ci_lo": 236617.53125,
+    "incremental_outcome_mean": 252472.390625,
+    "spend": 265158.65625,
+    "weekly_spend": 1325.7933349609375
+  },
+  {
+    "spend_multiplier": 0.46,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 179830.15625,
+    "incremental_outcome_ci_lo": 148877.140625,
+    "incremental_outcome_mean": 163611.6875,
+    "spend": 203649.828125,
+    "weekly_spend": 1018.2491455078125
+  },
+  {
+    "spend_multiplier": 0.46,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 263436.84375,
+    "incremental_outcome_ci_lo": 206783.375,
+    "incremental_outcome_mean": 231197.09375,
+    "spend": 139906.515625,
+    "weekly_spend": 699.5325927734375
+  },
+  {
+    "spend_multiplier": 0.46,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 273710.9375,
+    "incremental_outcome_ci_lo": 241222.6875,
+    "incremental_outcome_mean": 257294.875,
+    "spend": 271051.09375,
+    "weekly_spend": 1355.2554931640625
+  },
+  {
+    "spend_multiplier": 0.47000000000000003,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 182912.515625,
+    "incremental_outcome_ci_lo": 151609.796875,
+    "incremental_outcome_mean": 166553.609375,
+    "spend": 208076.984375,
+    "weekly_spend": 1040.3848876953125
+  },
+  {
+    "spend_multiplier": 0.47000000000000003,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 267434.875,
+    "incremental_outcome_ci_lo": 210589.15625,
+    "incremental_outcome_mean": 235057.9375,
+    "spend": 142947.953125,
+    "weekly_spend": 714.73974609375
+  },
+  {
+    "spend_multiplier": 0.47000000000000003,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 278669.4375,
+    "incremental_outcome_ci_lo": 245725.796875,
+    "incremental_outcome_mean": 262088.390625,
+    "spend": 276943.5,
+    "weekly_spend": 1384.717529296875
+  },
+  {
+    "spend_multiplier": 0.48,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 185941.125,
+    "incremental_outcome_ci_lo": 154378.734375,
+    "incremental_outcome_mean": 169475.140625,
+    "spend": 212504.15625,
+    "weekly_spend": 1062.520751953125
+  },
+  {
+    "spend_multiplier": 0.48,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 271315.40625,
+    "incremental_outcome_ci_lo": 214340.203125,
+    "incremental_outcome_mean": 238881.84375,
+    "spend": 145989.40625,
+    "weekly_spend": 729.947021484375
+  },
+  {
+    "spend_multiplier": 0.48,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 283591.34375,
+    "incremental_outcome_ci_lo": 250388.953125,
+    "incremental_outcome_mean": 266854.1875,
+    "spend": 282835.90625,
+    "weekly_spend": 1414.1795654296875
+  },
+  {
+    "spend_multiplier": 0.49,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 188988.28125,
+    "incremental_outcome_ci_lo": 157157.75,
+    "incremental_outcome_mean": 172375.703125,
+    "spend": 216931.328125,
+    "weekly_spend": 1084.6566162109375
+  },
+  {
+    "spend_multiplier": 0.49,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 275117.78125,
+    "incremental_outcome_ci_lo": 217953.671875,
+    "incremental_outcome_mean": 242669.8125,
+    "spend": 149030.859375,
+    "weekly_spend": 745.154296875
+  },
+  {
+    "spend_multiplier": 0.49,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 288558.28125,
+    "incremental_outcome_ci_lo": 254881.75,
+    "incremental_outcome_mean": 271591.375,
+    "spend": 288728.34375,
+    "weekly_spend": 1443.6417236328125
+  },
+  {
+    "spend_multiplier": 0.5,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 191987.515625,
+    "incremental_outcome_ci_lo": 159916.28125,
+    "incremental_outcome_mean": 175256.203125,
+    "spend": 221358.5,
+    "weekly_spend": 1106.79248046875
+  },
+  {
+    "spend_multiplier": 0.5,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 278787.15625,
+    "incremental_outcome_ci_lo": 221584.5,
+    "incremental_outcome_mean": 246421.875,
+    "spend": 152072.296875,
+    "weekly_spend": 760.3615112304688
+  },
+  {
+    "spend_multiplier": 0.5,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 293420.15625,
+    "incremental_outcome_ci_lo": 259405.921875,
+    "incremental_outcome_mean": 276302.25,
+    "spend": 294620.75,
+    "weekly_spend": 1473.103759765625
+  },
+  {
+    "spend_multiplier": 0.51,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 194868.234375,
+    "incremental_outcome_ci_lo": 162659.875,
+    "incremental_outcome_mean": 178116.296875,
+    "spend": 225785.671875,
+    "weekly_spend": 1128.9283447265625
+  },
+  {
+    "spend_multiplier": 0.51,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 282189.125,
+    "incremental_outcome_ci_lo": 225237.375,
+    "incremental_outcome_mean": 250138.953125,
+    "spend": 155113.734375,
+    "weekly_spend": 775.5686645507812
+  },
+  {
+    "spend_multiplier": 0.51,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 298302.34375,
+    "incremental_outcome_ci_lo": 263889.1875,
+    "incremental_outcome_mean": 280985.28125,
+    "spend": 300513.15625,
+    "weekly_spend": 1502.5657958984375
+  },
+  {
+    "spend_multiplier": 0.52,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 197785.0625,
+    "incremental_outcome_ci_lo": 165313.828125,
+    "incremental_outcome_mean": 180957.03125,
+    "spend": 230212.828125,
+    "weekly_spend": 1151.0640869140625
+  },
+  {
+    "spend_multiplier": 0.52,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 285580.75,
+    "incremental_outcome_ci_lo": 228814.546875,
+    "incremental_outcome_mean": 253821.21875,
+    "spend": 158155.1875,
+    "weekly_spend": 790.7759399414062
+  },
+  {
+    "spend_multiplier": 0.52,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 303012.09375,
+    "incremental_outcome_ci_lo": 268416.09375,
+    "incremental_outcome_mean": 285641.3125,
+    "spend": 306405.5625,
+    "weekly_spend": 1532.02783203125
+  },
+  {
+    "spend_multiplier": 0.53,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 200706.09375,
+    "incremental_outcome_ci_lo": 168026.078125,
+    "incremental_outcome_mean": 183777.9375,
+    "spend": 234640.0,
+    "weekly_spend": 1173.199951171875
+  },
+  {
+    "spend_multiplier": 0.53,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 289437.65625,
+    "incremental_outcome_ci_lo": 232342.65625,
+    "incremental_outcome_mean": 257469.3125,
+    "spend": 161196.625,
+    "weekly_spend": 805.983154296875
+  },
+  {
+    "spend_multiplier": 0.53,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 307929.875,
+    "incremental_outcome_ci_lo": 272882.125,
+    "incremental_outcome_mean": 290271.375,
+    "spend": 312297.96875,
+    "weekly_spend": 1561.4898681640625
+  },
+  {
+    "spend_multiplier": 0.54,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 203625.203125,
+    "incremental_outcome_ci_lo": 170691.078125,
+    "incremental_outcome_mean": 186579.9375,
+    "spend": 239067.1875,
+    "weekly_spend": 1195.3359375
+  },
+  {
+    "spend_multiplier": 0.54,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 293042.03125,
+    "incremental_outcome_ci_lo": 235866.484375,
+    "incremental_outcome_mean": 261083.53125,
+    "spend": 164238.09375,
+    "weekly_spend": 821.1904907226562
+  },
+  {
+    "spend_multiplier": 0.54,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 312719.1875,
+    "incremental_outcome_ci_lo": 277355.25,
+    "incremental_outcome_mean": 294874.53125,
+    "spend": 318190.4375,
+    "weekly_spend": 1590.9521484375
+  },
+  {
+    "spend_multiplier": 0.55,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 206457.453125,
+    "incremental_outcome_ci_lo": 173395.40625,
+    "incremental_outcome_mean": 189362.1875,
+    "spend": 243494.359375,
+    "weekly_spend": 1217.4718017578125
+  },
+  {
+    "spend_multiplier": 0.55,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 296625.6875,
+    "incremental_outcome_ci_lo": 239461.890625,
+    "incremental_outcome_mean": 264664.84375,
+    "spend": 167279.53125,
+    "weekly_spend": 836.3976440429688
+  },
+  {
+    "spend_multiplier": 0.55,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 317523.6875,
+    "incremental_outcome_ci_lo": 281777.78125,
+    "incremental_outcome_mean": 299452.03125,
+    "spend": 324082.84375,
+    "weekly_spend": 1620.4141845703125
+  },
+  {
+    "spend_multiplier": 0.56,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 209385.0625,
+    "incremental_outcome_ci_lo": 175980.296875,
+    "incremental_outcome_mean": 192126.0625,
+    "spend": 247921.515625,
+    "weekly_spend": 1239.6075439453125
+  },
+  {
+    "spend_multiplier": 0.56,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 300048.21875,
+    "incremental_outcome_ci_lo": 242956.421875,
+    "incremental_outcome_mean": 268212.8125,
+    "spend": 170320.96875,
+    "weekly_spend": 851.6048583984375
+  },
+  {
+    "spend_multiplier": 0.56,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 322228.90625,
+    "incremental_outcome_ci_lo": 286223.5,
+    "incremental_outcome_mean": 304003.28125,
+    "spend": 329975.25,
+    "weekly_spend": 1649.876220703125
+  },
+  {
+    "spend_multiplier": 0.5700000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 212279.265625,
+    "incremental_outcome_ci_lo": 178624.0,
+    "incremental_outcome_mean": 194871.21875,
+    "spend": 252348.6875,
+    "weekly_spend": 1261.743408203125
+  },
+  {
+    "spend_multiplier": 0.5700000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 303520.625,
+    "incremental_outcome_ci_lo": 246340.96875,
+    "incremental_outcome_mean": 271729.5,
+    "spend": 173362.421875,
+    "weekly_spend": 866.8121337890625
+  },
+  {
+    "spend_multiplier": 0.5700000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 327013.375,
+    "incremental_outcome_ci_lo": 290556.84375,
+    "incremental_outcome_mean": 308528.78125,
+    "spend": 335867.65625,
+    "weekly_spend": 1679.3382568359375
+  },
+  {
+    "spend_multiplier": 0.58,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 215044.796875,
+    "incremental_outcome_ci_lo": 181251.890625,
+    "incremental_outcome_mean": 197597.453125,
+    "spend": 256775.859375,
+    "weekly_spend": 1283.8792724609375
+  },
+  {
+    "spend_multiplier": 0.58,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 307068.5,
+    "incremental_outcome_ci_lo": 249794.28125,
+    "incremental_outcome_mean": 275214.15625,
+    "spend": 176403.859375,
+    "weekly_spend": 882.019287109375
+  },
+  {
+    "spend_multiplier": 0.58,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 331632.8125,
+    "incremental_outcome_ci_lo": 294828.375,
+    "incremental_outcome_mean": 313029.25,
+    "spend": 341760.0625,
+    "weekly_spend": 1708.80029296875
+  },
+  {
+    "spend_multiplier": 0.59,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 217852.5,
+    "incremental_outcome_ci_lo": 183794.015625,
+    "incremental_outcome_mean": 200306.25,
+    "spend": 261203.015625,
+    "weekly_spend": 1306.01513671875
+  },
+  {
+    "spend_multiplier": 0.59,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 310341.21875,
+    "incremental_outcome_ci_lo": 253204.765625,
+    "incremental_outcome_mean": 278667.46875,
+    "spend": 179445.296875,
+    "weekly_spend": 897.2265014648438
+  },
+  {
+    "spend_multiplier": 0.59,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 336194.5625,
+    "incremental_outcome_ci_lo": 299025.25,
+    "incremental_outcome_mean": 317504.78125,
+    "spend": 347652.46875,
+    "weekly_spend": 1738.2623291015625
+  },
+  {
+    "spend_multiplier": 0.6,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 220586.796875,
+    "incremental_outcome_ci_lo": 186385.484375,
+    "incremental_outcome_mean": 202996.203125,
+    "spend": 265630.21875,
+    "weekly_spend": 1328.151123046875
+  },
+  {
+    "spend_multiplier": 0.6,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 313714.8125,
+    "incremental_outcome_ci_lo": 256531.203125,
+    "incremental_outcome_mean": 282090.21875,
+    "spend": 182486.765625,
+    "weekly_spend": 912.433837890625
+  },
+  {
+    "spend_multiplier": 0.6,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 340751.375,
+    "incremental_outcome_ci_lo": 303269.96875,
+    "incremental_outcome_mean": 321955.625,
+    "spend": 353544.90625,
+    "weekly_spend": 1767.7244873046875
+  },
+  {
+    "spend_multiplier": 0.61,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 223394.984375,
+    "incremental_outcome_ci_lo": 188968.90625,
+    "incremental_outcome_mean": 205668.28125,
+    "spend": 270057.375,
+    "weekly_spend": 1350.286865234375
+  },
+  {
+    "spend_multiplier": 0.61,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 316864.46875,
+    "incremental_outcome_ci_lo": 259952.5625,
+    "incremental_outcome_mean": 285481.75,
+    "spend": 185528.203125,
+    "weekly_spend": 927.6409912109375
+  },
+  {
+    "spend_multiplier": 0.61,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 345274.625,
+    "incremental_outcome_ci_lo": 307577.59375,
+    "incremental_outcome_mean": 326382.4375,
+    "spend": 359437.3125,
+    "weekly_spend": 1797.1865234375
+  },
+  {
+    "spend_multiplier": 0.62,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 226177.625,
+    "incremental_outcome_ci_lo": 191425.375,
+    "incremental_outcome_mean": 208323.421875,
+    "spend": 274484.53125,
+    "weekly_spend": 1372.422607421875
+  },
+  {
+    "spend_multiplier": 0.62,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 320256.375,
+    "incremental_outcome_ci_lo": 263307.625,
+    "incremental_outcome_mean": 288843.71875,
+    "spend": 188569.65625,
+    "weekly_spend": 942.8482666015625
+  },
+  {
+    "spend_multiplier": 0.62,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 349773.3125,
+    "incremental_outcome_ci_lo": 311799.71875,
+    "incremental_outcome_mean": 330784.15625,
+    "spend": 365329.71875,
+    "weekly_spend": 1826.6485595703125
+  },
+  {
+    "spend_multiplier": 0.63,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 228850.296875,
+    "incremental_outcome_ci_lo": 193941.015625,
+    "incremental_outcome_mean": 210960.5625,
+    "spend": 278911.71875,
+    "weekly_spend": 1394.55859375
+  },
+  {
+    "spend_multiplier": 0.63,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 323522.0,
+    "incremental_outcome_ci_lo": 266525.6875,
+    "incremental_outcome_mean": 292176.0625,
+    "spend": 191611.09375,
+    "weekly_spend": 958.0554809570312
+  },
+  {
+    "spend_multiplier": 0.63,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 354342.90625,
+    "incremental_outcome_ci_lo": 316034.0625,
+    "incremental_outcome_mean": 335162.0625,
+    "spend": 371222.15625,
+    "weekly_spend": 1856.11083984375
+  },
+  {
+    "spend_multiplier": 0.64,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 231503.21875,
+    "incremental_outcome_ci_lo": 196415.421875,
+    "incremental_outcome_mean": 213581.328125,
+    "spend": 283338.875,
+    "weekly_spend": 1416.6943359375
+  },
+  {
+    "spend_multiplier": 0.64,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 326588.09375,
+    "incremental_outcome_ci_lo": 269793.0,
+    "incremental_outcome_mean": 295479.90625,
+    "spend": 194652.53125,
+    "weekly_spend": 973.2626342773438
+  },
+  {
+    "spend_multiplier": 0.64,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 358867.15625,
+    "incremental_outcome_ci_lo": 320207.84375,
+    "incremental_outcome_mean": 339516.375,
+    "spend": 377114.5625,
+    "weekly_spend": 1885.57275390625
+  },
+  {
+    "spend_multiplier": 0.65,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 234183.8125,
+    "incremental_outcome_ci_lo": 198898.03125,
+    "incremental_outcome_mean": 216184.9375,
+    "spend": 287766.03125,
+    "weekly_spend": 1438.8302001953125
+  },
+  {
+    "spend_multiplier": 0.65,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 329794.9375,
+    "incremental_outcome_ci_lo": 273126.375,
+    "incremental_outcome_mean": 298754.34375,
+    "spend": 197693.984375,
+    "weekly_spend": 988.4699096679688
+  },
+  {
+    "spend_multiplier": 0.65,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 363268.1875,
+    "incremental_outcome_ci_lo": 324336.78125,
+    "incremental_outcome_mean": 343845.96875,
+    "spend": 383006.96875,
+    "weekly_spend": 1915.0347900390625
+  },
+  {
+    "spend_multiplier": 0.66,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 236835.703125,
+    "incremental_outcome_ci_lo": 201389.78125,
+    "incremental_outcome_mean": 218771.0625,
+    "spend": 292193.21875,
+    "weekly_spend": 1460.966064453125
+  },
+  {
+    "spend_multiplier": 0.66,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 333020.8125,
+    "incremental_outcome_ci_lo": 276269.875,
+    "incremental_outcome_mean": 302001.1875,
+    "spend": 200735.4375,
+    "weekly_spend": 1003.6771850585938
+  },
+  {
+    "spend_multiplier": 0.66,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 367688.0,
+    "incremental_outcome_ci_lo": 328535.625,
+    "incremental_outcome_mean": 348153.5625,
+    "spend": 388899.40625,
+    "weekly_spend": 1944.4970703125
+  },
+  {
+    "spend_multiplier": 0.67,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 239533.5625,
+    "incremental_outcome_ci_lo": 203902.78125,
+    "incremental_outcome_mean": 221340.828125,
+    "spend": 296620.40625,
+    "weekly_spend": 1483.10205078125
+  },
+  {
+    "spend_multiplier": 0.67,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 336261.65625,
+    "incremental_outcome_ci_lo": 279482.75,
+    "incremental_outcome_mean": 305219.90625,
+    "spend": 203776.890625,
+    "weekly_spend": 1018.8844604492188
+  },
+  {
+    "spend_multiplier": 0.67,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 372003.59375,
+    "incremental_outcome_ci_lo": 332768.25,
+    "incremental_outcome_mean": 352436.96875,
+    "spend": 394791.8125,
+    "weekly_spend": 1973.9591064453125
+  },
+  {
+    "spend_multiplier": 0.68,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 242054.0625,
+    "incremental_outcome_ci_lo": 206388.40625,
+    "incremental_outcome_mean": 223894.46875,
+    "spend": 301047.5625,
+    "weekly_spend": 1505.23779296875
+  },
+  {
+    "spend_multiplier": 0.68,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 339704.4375,
+    "incremental_outcome_ci_lo": 282664.46875,
+    "incremental_outcome_mean": 308410.46875,
+    "spend": 206818.328125,
+    "weekly_spend": 1034.0916748046875
+  },
+  {
+    "spend_multiplier": 0.68,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 376330.375,
+    "incremental_outcome_ci_lo": 336787.5,
+    "incremental_outcome_mean": 356699.375,
+    "spend": 400684.21875,
+    "weekly_spend": 2003.421142578125
+  },
+  {
+    "spend_multiplier": 0.6900000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 244709.609375,
+    "incremental_outcome_ci_lo": 208796.46875,
+    "incremental_outcome_mean": 226431.40625,
+    "spend": 305474.71875,
+    "weekly_spend": 1527.37353515625
+  },
+  {
+    "spend_multiplier": 0.6900000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 342639.875,
+    "incremental_outcome_ci_lo": 285848.875,
+    "incremental_outcome_mean": 311574.5,
+    "spend": 209859.765625,
+    "weekly_spend": 1049.298828125
+  },
+  {
+    "spend_multiplier": 0.6900000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 380782.90625,
+    "incremental_outcome_ci_lo": 340880.1875,
+    "incremental_outcome_mean": 360937.28125,
+    "spend": 406576.625,
+    "weekly_spend": 2032.8831787109375
+  },
+  {
+    "spend_multiplier": 0.7000000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 247309.90625,
+    "incremental_outcome_ci_lo": 211193.15625,
+    "incremental_outcome_mean": 228952.25,
+    "spend": 309901.90625,
+    "weekly_spend": 1549.509521484375
+  },
+  {
+    "spend_multiplier": 0.7000000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 345782.5625,
+    "incremental_outcome_ci_lo": 288999.6875,
+    "incremental_outcome_mean": 314711.15625,
+    "spend": 212901.21875,
+    "weekly_spend": 1064.506103515625
+  },
+  {
+    "spend_multiplier": 0.7000000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 385135.5,
+    "incremental_outcome_ci_lo": 345038.53125,
+    "incremental_outcome_mean": 365153.40625,
+    "spend": 412469.03125,
+    "weekly_spend": 2062.34521484375
+  },
+  {
+    "spend_multiplier": 0.71,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 249927.28125,
+    "incremental_outcome_ci_lo": 213484.5625,
+    "incremental_outcome_mean": 231458.171875,
+    "spend": 314329.0625,
+    "weekly_spend": 1571.645263671875
+  },
+  {
+    "spend_multiplier": 0.71,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 348935.375,
+    "incremental_outcome_ci_lo": 292136.59375,
+    "incremental_outcome_mean": 317821.8125,
+    "spend": 215942.65625,
+    "weekly_spend": 1079.7132568359375
+  },
+  {
+    "spend_multiplier": 0.71,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 389597.96875,
+    "incremental_outcome_ci_lo": 349094.84375,
+    "incremental_outcome_mean": 369347.0625,
+    "spend": 418361.4375,
+    "weekly_spend": 2091.80712890625
+  },
+  {
+    "spend_multiplier": 0.72,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 252553.265625,
+    "incremental_outcome_ci_lo": 215755.328125,
+    "incremental_outcome_mean": 233947.171875,
+    "spend": 318756.25,
+    "weekly_spend": 1593.78125
+  },
+  {
+    "spend_multiplier": 0.72,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 351926.0,
+    "incremental_outcome_ci_lo": 295216.90625,
+    "incremental_outcome_mean": 320907.28125,
+    "spend": 218984.109375,
+    "weekly_spend": 1094.9205322265625
+  },
+  {
+    "spend_multiplier": 0.72,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 393903.59375,
+    "incremental_outcome_ci_lo": 353053.28125,
+    "incremental_outcome_mean": 373519.1875,
+    "spend": 424253.90625,
+    "weekly_spend": 2121.26953125
+  },
+  {
+    "spend_multiplier": 0.73,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 255164.25,
+    "incremental_outcome_ci_lo": 217986.28125,
+    "incremental_outcome_mean": 236420.828125,
+    "spend": 323183.40625,
+    "weekly_spend": 1615.9169921875
+  },
+  {
+    "spend_multiplier": 0.73,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 355272.6875,
+    "incremental_outcome_ci_lo": 298273.71875,
+    "incremental_outcome_mean": 323965.96875,
+    "spend": 222025.5625,
+    "weekly_spend": 1110.1278076171875
+  },
+  {
+    "spend_multiplier": 0.73,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 398353.46875,
+    "incremental_outcome_ci_lo": 357020.90625,
+    "incremental_outcome_mean": 377668.875,
+    "spend": 430146.3125,
+    "weekly_spend": 2150.7314453125
+  },
+  {
+    "spend_multiplier": 0.74,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 257714.484375,
+    "incremental_outcome_ci_lo": 220263.015625,
+    "incremental_outcome_mean": 238879.703125,
+    "spend": 327610.59375,
+    "weekly_spend": 1638.052978515625
+  },
+  {
+    "spend_multiplier": 0.74,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 358307.1875,
+    "incremental_outcome_ci_lo": 301241.125,
+    "incremental_outcome_mean": 326999.1875,
+    "spend": 225067.0,
+    "weekly_spend": 1125.3349609375
+  },
+  {
+    "spend_multiplier": 0.74,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 402643.875,
+    "incremental_outcome_ci_lo": 360983.1875,
+    "incremental_outcome_mean": 381797.15625,
+    "spend": 436038.71875,
+    "weekly_spend": 2180.193603515625
+  },
+  {
+    "spend_multiplier": 0.75,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 260204.078125,
+    "incremental_outcome_ci_lo": 222561.703125,
+    "incremental_outcome_mean": 241323.203125,
+    "spend": 332037.75,
+    "weekly_spend": 1660.188720703125
+  },
+  {
+    "spend_multiplier": 0.75,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 361061.03125,
+    "incremental_outcome_ci_lo": 304246.28125,
+    "incremental_outcome_mean": 330007.5,
+    "spend": 228108.4375,
+    "weekly_spend": 1140.542236328125
+  },
+  {
+    "spend_multiplier": 0.75,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 407002.1875,
+    "incremental_outcome_ci_lo": 364967.125,
+    "incremental_outcome_mean": 385903.3125,
+    "spend": 441931.125,
+    "weekly_spend": 2209.655517578125
+  },
+  {
+    "spend_multiplier": 0.76,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 262754.9375,
+    "incremental_outcome_ci_lo": 224832.171875,
+    "incremental_outcome_mean": 243751.359375,
+    "spend": 336464.90625,
+    "weekly_spend": 1682.3245849609375
+  },
+  {
+    "spend_multiplier": 0.76,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 363834.8125,
+    "incremental_outcome_ci_lo": 307151.40625,
+    "incremental_outcome_mean": 332991.71875,
+    "spend": 231149.890625,
+    "weekly_spend": 1155.74951171875
+  },
+  {
+    "spend_multiplier": 0.76,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 411194.46875,
+    "incremental_outcome_ci_lo": 368885.625,
+    "incremental_outcome_mean": 389989.4375,
+    "spend": 447823.53125,
+    "weekly_spend": 2239.11767578125
+  },
+  {
+    "spend_multiplier": 0.77,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 265296.59375,
+    "incremental_outcome_ci_lo": 227214.609375,
+    "incremental_outcome_mean": 246165.078125,
+    "spend": 340892.09375,
+    "weekly_spend": 1704.46044921875
+  },
+  {
+    "spend_multiplier": 0.77,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 366711.46875,
+    "incremental_outcome_ci_lo": 310095.1875,
+    "incremental_outcome_mean": 335951.0625,
+    "spend": 234191.328125,
+    "weekly_spend": 1170.9566650390625
+  },
+  {
+    "spend_multiplier": 0.77,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 415444.375,
+    "incremental_outcome_ci_lo": 372743.28125,
+    "incremental_outcome_mean": 394054.46875,
+    "spend": 453715.9375,
+    "weekly_spend": 2268.57958984375
+  },
+  {
+    "spend_multiplier": 0.78,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 267919.03125,
+    "incremental_outcome_ci_lo": 229538.6875,
+    "incremental_outcome_mean": 248563.453125,
+    "spend": 345319.25,
+    "weekly_spend": 1726.59619140625
+  },
+  {
+    "spend_multiplier": 0.78,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 369557.125,
+    "incremental_outcome_ci_lo": 312976.90625,
+    "incremental_outcome_mean": 338886.375,
+    "spend": 237232.78125,
+    "weekly_spend": 1186.1639404296875
+  },
+  {
+    "spend_multiplier": 0.78,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 419677.75,
+    "incremental_outcome_ci_lo": 376649.40625,
+    "incremental_outcome_mean": 398097.125,
+    "spend": 459608.34375,
+    "weekly_spend": 2298.041748046875
+  },
+  {
+    "spend_multiplier": 0.79,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 270493.71875,
+    "incremental_outcome_ci_lo": 231778.46875,
+    "incremental_outcome_mean": 250948.109375,
+    "spend": 349746.4375,
+    "weekly_spend": 1748.732177734375
+  },
+  {
+    "spend_multiplier": 0.79,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 372488.65625,
+    "incremental_outcome_ci_lo": 315794.28125,
+    "incremental_outcome_mean": 341797.53125,
+    "spend": 240274.234375,
+    "weekly_spend": 1201.3712158203125
+  },
+  {
+    "spend_multiplier": 0.79,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 423794.8125,
+    "incremental_outcome_ci_lo": 380558.34375,
+    "incremental_outcome_mean": 402121.34375,
+    "spend": 465500.8125,
+    "weekly_spend": 2327.504150390625
+  },
+  {
+    "spend_multiplier": 0.8,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 272906.59375,
+    "incremental_outcome_ci_lo": 233940.390625,
+    "incremental_outcome_mean": 253317.625,
+    "spend": 354173.59375,
+    "weekly_spend": 1770.867919921875
+  },
+  {
+    "spend_multiplier": 0.8,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 375364.25,
+    "incremental_outcome_ci_lo": 318669.90625,
+    "incremental_outcome_mean": 344685.34375,
+    "spend": 243315.671875,
+    "weekly_spend": 1216.578369140625
+  },
+  {
+    "spend_multiplier": 0.8,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 427993.5,
+    "incremental_outcome_ci_lo": 384478.28125,
+    "incremental_outcome_mean": 406123.96875,
+    "spend": 471393.21875,
+    "weekly_spend": 2356.966064453125
+  },
+  {
+    "spend_multiplier": 0.81,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 275333.40625,
+    "incremental_outcome_ci_lo": 236223.875,
+    "incremental_outcome_mean": 255673.265625,
+    "spend": 358600.78125,
+    "weekly_spend": 1793.00390625
+  },
+  {
+    "spend_multiplier": 0.81,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 378364.625,
+    "incremental_outcome_ci_lo": 321517.6875,
+    "incremental_outcome_mean": 347550.28125,
+    "spend": 246357.125,
+    "weekly_spend": 1231.78564453125
+  },
+  {
+    "spend_multiplier": 0.81,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 432065.0,
+    "incremental_outcome_ci_lo": 388320.59375,
+    "incremental_outcome_mean": 410106.75,
+    "spend": 477285.625,
+    "weekly_spend": 2386.42822265625
+  },
+  {
+    "spend_multiplier": 0.8200000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 277774.21875,
+    "incremental_outcome_ci_lo": 238382.25,
+    "incremental_outcome_mean": 258014.796875,
+    "spend": 363027.9375,
+    "weekly_spend": 1815.1396484375
+  },
+  {
+    "spend_multiplier": 0.8200000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 381362.375,
+    "incremental_outcome_ci_lo": 324367.84375,
+    "incremental_outcome_mean": 350392.21875,
+    "spend": 249398.5625,
+    "weekly_spend": 1246.9927978515625
+  },
+  {
+    "spend_multiplier": 0.8200000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 436107.46875,
+    "incremental_outcome_ci_lo": 392196.15625,
+    "incremental_outcome_mean": 414069.1875,
+    "spend": 483178.03125,
+    "weekly_spend": 2415.89013671875
+  },
+  {
+    "spend_multiplier": 0.8300000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 280136.53125,
+    "incremental_outcome_ci_lo": 240539.0,
+    "incremental_outcome_mean": 260341.5,
+    "spend": 367455.09375,
+    "weekly_spend": 1837.2755126953125
+  },
+  {
+    "spend_multiplier": 0.8300000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 384181.90625,
+    "incremental_outcome_ci_lo": 327189.84375,
+    "incremental_outcome_mean": 353212.0625,
+    "spend": 252440.0,
+    "weekly_spend": 1262.199951171875
+  },
+  {
+    "spend_multiplier": 0.8300000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 440116.40625,
+    "incremental_outcome_ci_lo": 396012.3125,
+    "incremental_outcome_mean": 418011.5625,
+    "spend": 489070.4375,
+    "weekly_spend": 2445.352294921875
+  },
+  {
+    "spend_multiplier": 0.84,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 282590.4375,
+    "incremental_outcome_ci_lo": 242885.53125,
+    "incremental_outcome_mean": 262655.375,
+    "spend": 371882.28125,
+    "weekly_spend": 1859.411376953125
+  },
+  {
+    "spend_multiplier": 0.84,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 387091.875,
+    "incremental_outcome_ci_lo": 329876.0625,
+    "incremental_outcome_mean": 356009.125,
+    "spend": 255481.453125,
+    "weekly_spend": 1277.4072265625
+  },
+  {
+    "spend_multiplier": 0.84,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 444200.46875,
+    "incremental_outcome_ci_lo": 399785.25,
+    "incremental_outcome_mean": 421934.375,
+    "spend": 494962.84375,
+    "weekly_spend": 2474.814208984375
+  },
+  {
+    "spend_multiplier": 0.85,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 285018.84375,
+    "incremental_outcome_ci_lo": 245028.734375,
+    "incremental_outcome_mean": 264955.46875,
+    "spend": 376309.46875,
+    "weekly_spend": 1881.54736328125
+  },
+  {
+    "spend_multiplier": 0.85,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 389978.03125,
+    "incremental_outcome_ci_lo": 332565.84375,
+    "incremental_outcome_mean": 358784.46875,
+    "spend": 258522.90625,
+    "weekly_spend": 1292.614501953125
+  },
+  {
+    "spend_multiplier": 0.85,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 448296.21875,
+    "incremental_outcome_ci_lo": 403521.65625,
+    "incremental_outcome_mean": 425837.8125,
+    "spend": 500855.28125,
+    "weekly_spend": 2504.2763671875
+  },
+  {
+    "spend_multiplier": 0.86,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 287435.34375,
+    "incremental_outcome_ci_lo": 247128.296875,
+    "incremental_outcome_mean": 267241.9375,
+    "spend": 380736.625,
+    "weekly_spend": 1903.68310546875
+  },
+  {
+    "spend_multiplier": 0.86,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 392803.875,
+    "incremental_outcome_ci_lo": 335303.1875,
+    "incremental_outcome_mean": 361537.375,
+    "spend": 261564.359375,
+    "weekly_spend": 1307.82177734375
+  },
+  {
+    "spend_multiplier": 0.86,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 452273.125,
+    "incremental_outcome_ci_lo": 407241.75,
+    "incremental_outcome_mean": 429722.125,
+    "spend": 506747.6875,
+    "weekly_spend": 2533.738525390625
+  },
+  {
+    "spend_multiplier": 0.87,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 289910.625,
+    "incremental_outcome_ci_lo": 249198.46875,
+    "incremental_outcome_mean": 269514.1875,
+    "spend": 385163.78125,
+    "weekly_spend": 1925.81884765625
+  },
+  {
+    "spend_multiplier": 0.87,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 395737.8125,
+    "incremental_outcome_ci_lo": 337959.5625,
+    "incremental_outcome_mean": 364269.375,
+    "spend": 264605.8125,
+    "weekly_spend": 1323.029052734375
+  },
+  {
+    "spend_multiplier": 0.87,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 456315.75,
+    "incremental_outcome_ci_lo": 410966.78125,
+    "incremental_outcome_mean": 433586.5,
+    "spend": 512640.09375,
+    "weekly_spend": 2563.200439453125
+  },
+  {
+    "spend_multiplier": 0.88,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 292230.59375,
+    "incremental_outcome_ci_lo": 251347.453125,
+    "incremental_outcome_mean": 271774.59375,
+    "spend": 389590.96875,
+    "weekly_spend": 1947.954833984375
+  },
+  {
+    "spend_multiplier": 0.88,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 398242.5625,
+    "incremental_outcome_ci_lo": 340622.125,
+    "incremental_outcome_mean": 366979.875,
+    "spend": 267647.25,
+    "weekly_spend": 1338.2362060546875
+  },
+  {
+    "spend_multiplier": 0.88,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 460276.5,
+    "incremental_outcome_ci_lo": 414619.28125,
+    "incremental_outcome_mean": 437432.1875,
+    "spend": 518532.53125,
+    "weekly_spend": 2592.66259765625
+  },
+  {
+    "spend_multiplier": 0.89,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 294679.46875,
+    "incremental_outcome_ci_lo": 253390.875,
+    "incremental_outcome_mean": 274021.40625,
+    "spend": 394018.125,
+    "weekly_spend": 1970.090576171875
+  },
+  {
+    "spend_multiplier": 0.89,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 401212.03125,
+    "incremental_outcome_ci_lo": 343285.65625,
+    "incremental_outcome_mean": 369670.1875,
+    "spend": 270688.6875,
+    "weekly_spend": 1353.4434814453125
+  },
+  {
+    "spend_multiplier": 0.89,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 464221.65625,
+    "incremental_outcome_ci_lo": 418361.5,
+    "incremental_outcome_mean": 441259.71875,
+    "spend": 524424.9375,
+    "weekly_spend": 2622.124755859375
+  },
+  {
+    "spend_multiplier": 0.9,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 297042.71875,
+    "incremental_outcome_ci_lo": 255486.625,
+    "incremental_outcome_mean": 276254.78125,
+    "spend": 398445.28125,
+    "weekly_spend": 1992.2264404296875
+  },
+  {
+    "spend_multiplier": 0.9,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 403931.375,
+    "incremental_outcome_ci_lo": 345821.8125,
+    "incremental_outcome_mean": 372339.8125,
+    "spend": 273730.125,
+    "weekly_spend": 1368.650634765625
+  },
+  {
+    "spend_multiplier": 0.9,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 468145.375,
+    "incremental_outcome_ci_lo": 422138.40625,
+    "incremental_outcome_mean": 445067.9375,
+    "spend": 530317.3125,
+    "weekly_spend": 2651.586669921875
+  },
+  {
+    "spend_multiplier": 0.91,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 299383.09375,
+    "incremental_outcome_ci_lo": 257560.953125,
+    "incremental_outcome_mean": 278475.40625,
+    "spend": 402872.46875,
+    "weekly_spend": 2014.3623046875
+  },
+  {
+    "spend_multiplier": 0.91,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 406698.625,
+    "incremental_outcome_ci_lo": 348354.15625,
+    "incremental_outcome_mean": 374988.15625,
+    "spend": 276771.59375,
+    "weekly_spend": 1383.85791015625
+  },
+  {
+    "spend_multiplier": 0.91,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 472137.0625,
+    "incremental_outcome_ci_lo": 425872.5625,
+    "incremental_outcome_mean": 448857.84375,
+    "spend": 536209.75,
+    "weekly_spend": 2681.048828125
+  },
+  {
+    "spend_multiplier": 0.92,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 301722.03125,
+    "incremental_outcome_ci_lo": 259535.125,
+    "incremental_outcome_mean": 280684.03125,
+    "spend": 407299.65625,
+    "weekly_spend": 2036.498291015625
+  },
+  {
+    "spend_multiplier": 0.92,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 409285.71875,
+    "incremental_outcome_ci_lo": 350935.75,
+    "incremental_outcome_mean": 377616.59375,
+    "spend": 279813.03125,
+    "weekly_spend": 1399.065185546875
+  },
+  {
+    "spend_multiplier": 0.92,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 476008.59375,
+    "incremental_outcome_ci_lo": 429438.75,
+    "incremental_outcome_mean": 452628.75,
+    "spend": 542102.1875,
+    "weekly_spend": 2710.510986328125
+  },
+  {
+    "spend_multiplier": 0.93,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 304040.3125,
+    "incremental_outcome_ci_lo": 261574.3125,
+    "incremental_outcome_mean": 282879.21875,
+    "spend": 411726.8125,
+    "weekly_spend": 2058.634033203125
+  },
+  {
+    "spend_multiplier": 0.93,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 412103.84375,
+    "incremental_outcome_ci_lo": 353459.625,
+    "incremental_outcome_mean": 380225.25,
+    "spend": 282854.46875,
+    "weekly_spend": 1414.2723388671875
+  },
+  {
+    "spend_multiplier": 0.93,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 479868.625,
+    "incremental_outcome_ci_lo": 432975.75,
+    "incremental_outcome_mean": 456382.28125,
+    "spend": 547994.625,
+    "weekly_spend": 2739.97314453125
+  },
+  {
+    "spend_multiplier": 0.9400000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 306366.125,
+    "incremental_outcome_ci_lo": 263664.75,
+    "incremental_outcome_mean": 285062.53125,
+    "spend": 416153.96875,
+    "weekly_spend": 2080.769775390625
+  },
+  {
+    "spend_multiplier": 0.9400000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 414590.40625,
+    "incremental_outcome_ci_lo": 355862.34375,
+    "incremental_outcome_mean": 382814.40625,
+    "spend": 285895.90625,
+    "weekly_spend": 1429.4794921875
+  },
+  {
+    "spend_multiplier": 0.9400000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 483853.3125,
+    "incremental_outcome_ci_lo": 436596.3125,
+    "incremental_outcome_mean": 460117.25,
+    "spend": 553887.0,
+    "weekly_spend": 2769.43505859375
+  },
+  {
+    "spend_multiplier": 0.9500000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 308640.5,
+    "incremental_outcome_ci_lo": 265760.125,
+    "incremental_outcome_mean": 287232.625,
+    "spend": 420581.15625,
+    "weekly_spend": 2102.90576171875
+  },
+  {
+    "spend_multiplier": 0.9500000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 417166.46875,
+    "incremental_outcome_ci_lo": 358240.28125,
+    "incremental_outcome_mean": 385384.1875,
+    "spend": 288937.375,
+    "weekly_spend": 1444.6868896484375
+  },
+  {
+    "spend_multiplier": 0.9500000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 487761.28125,
+    "incremental_outcome_ci_lo": 440104.1875,
+    "incremental_outcome_mean": 463834.09375,
+    "spend": 559779.4375,
+    "weekly_spend": 2798.897216796875
+  },
+  {
+    "spend_multiplier": 0.96,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 310880.625,
+    "incremental_outcome_ci_lo": 267838.0625,
+    "incremental_outcome_mean": 289390.9375,
+    "spend": 425008.3125,
+    "weekly_spend": 2125.04150390625
+  },
+  {
+    "spend_multiplier": 0.96,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 419733.5,
+    "incremental_outcome_ci_lo": 360614.9375,
+    "incremental_outcome_mean": 387933.25,
+    "spend": 291978.8125,
+    "weekly_spend": 1459.89404296875
+  },
+  {
+    "spend_multiplier": 0.96,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 491637.90625,
+    "incremental_outcome_ci_lo": 443712.5625,
+    "incremental_outcome_mean": 467534.75,
+    "spend": 565671.8125,
+    "weekly_spend": 2828.359130859375
+  },
+  {
+    "spend_multiplier": 0.97,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 313011.1875,
+    "incremental_outcome_ci_lo": 269777.28125,
+    "incremental_outcome_mean": 291537.125,
+    "spend": 429435.5,
+    "weekly_spend": 2147.177490234375
+  },
+  {
+    "spend_multiplier": 0.97,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 422226.0,
+    "incremental_outcome_ci_lo": 363011.4375,
+    "incremental_outcome_mean": 390465.125,
+    "spend": 295020.25,
+    "weekly_spend": 1475.1011962890625
+  },
+  {
+    "spend_multiplier": 0.97,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 495450.25,
+    "incremental_outcome_ci_lo": 447293.3125,
+    "incremental_outcome_mean": 471216.71875,
+    "spend": 571564.25,
+    "weekly_spend": 2857.8212890625
+  },
+  {
+    "spend_multiplier": 0.98,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 315287.75,
+    "incremental_outcome_ci_lo": 271705.96875,
+    "incremental_outcome_mean": 293671.40625,
+    "spend": 433862.65625,
+    "weekly_spend": 2169.313232421875
+  },
+  {
+    "spend_multiplier": 0.98,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 424819.40625,
+    "incremental_outcome_ci_lo": 365499.375,
+    "incremental_outcome_mean": 392977.84375,
+    "spend": 298061.71875,
+    "weekly_spend": 1490.30859375
+  },
+  {
+    "spend_multiplier": 0.98,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 499268.8125,
+    "incremental_outcome_ci_lo": 450878.53125,
+    "incremental_outcome_mean": 474880.96875,
+    "spend": 577456.6875,
+    "weekly_spend": 2887.283447265625
+  },
+  {
+    "spend_multiplier": 0.99,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 317578.4375,
+    "incremental_outcome_ci_lo": 273653.75,
+    "incremental_outcome_mean": 295793.3125,
+    "spend": 438289.84375,
+    "weekly_spend": 2191.44921875
+  },
+  {
+    "spend_multiplier": 0.99,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 427309.84375,
+    "incremental_outcome_ci_lo": 367940.1875,
+    "incremental_outcome_mean": 395471.75,
+    "spend": 301103.15625,
+    "weekly_spend": 1505.5157470703125
+  },
+  {
+    "spend_multiplier": 0.99,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 503058.40625,
+    "incremental_outcome_ci_lo": 454395.65625,
+    "incremental_outcome_mean": 478528.5,
+    "spend": 583349.0625,
+    "weekly_spend": 2916.745361328125
+  },
+  {
+    "spend_multiplier": 1.0,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 319832.46875,
+    "incremental_outcome_ci_lo": 275621.5,
+    "incremental_outcome_mean": 297904.1875,
+    "spend": 442717.0,
+    "weekly_spend": 2213.5849609375
+  },
+  {
+    "spend_multiplier": 1.0,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 429687.0625,
+    "incremental_outcome_ci_lo": 370264.28125,
+    "incremental_outcome_mean": 397946.8125,
+    "spend": 304144.59375,
+    "weekly_spend": 1520.7230224609375
+  },
+  {
+    "spend_multiplier": 1.0,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 506899.625,
+    "incremental_outcome_ci_lo": 457890.6875,
+    "incremental_outcome_mean": 482158.375,
+    "spend": 589241.5,
+    "weekly_spend": 2946.20751953125
+  },
+  {
+    "spend_multiplier": 1.01,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 322049.34375,
+    "incremental_outcome_ci_lo": 277449.5625,
+    "incremental_outcome_mean": 300003.1875,
+    "spend": 447144.15625,
+    "weekly_spend": 2235.720703125
+  },
+  {
+    "spend_multiplier": 1.01,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 432367.03125,
+    "incremental_outcome_ci_lo": 372561.59375,
+    "incremental_outcome_mean": 400404.78125,
+    "spend": 307186.03125,
+    "weekly_spend": 1535.93017578125
+  },
+  {
+    "spend_multiplier": 1.01,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 510744.84375,
+    "incremental_outcome_ci_lo": 461396.125,
+    "incremental_outcome_mean": 485771.0,
+    "spend": 595133.9375,
+    "weekly_spend": 2975.669677734375
+  },
+  {
+    "spend_multiplier": 1.02,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 324238.90625,
+    "incremental_outcome_ci_lo": 279402.84375,
+    "incremental_outcome_mean": 302090.59375,
+    "spend": 451571.34375,
+    "weekly_spend": 2257.856689453125
+  },
+  {
+    "spend_multiplier": 1.02,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 434978.15625,
+    "incremental_outcome_ci_lo": 374811.0625,
+    "incremental_outcome_mean": 402845.0625,
+    "spend": 310227.46875,
+    "weekly_spend": 1551.1373291015625
+  },
+  {
+    "spend_multiplier": 1.02,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 514620.0,
+    "incremental_outcome_ci_lo": 464816.25,
+    "incremental_outcome_mean": 489368.75,
+    "spend": 601026.3125,
+    "weekly_spend": 3005.131591796875
+  },
+  {
+    "spend_multiplier": 1.03,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 326338.25,
+    "incremental_outcome_ci_lo": 281348.84375,
+    "incremental_outcome_mean": 304166.0625,
+    "spend": 455998.5,
+    "weekly_spend": 2279.992431640625
+  },
+  {
+    "spend_multiplier": 1.03,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 437523.875,
+    "incremental_outcome_ci_lo": 377063.3125,
+    "incremental_outcome_mean": 405266.1875,
+    "spend": 313268.9375,
+    "weekly_spend": 1566.3447265625
+  },
+  {
+    "spend_multiplier": 1.03,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 518324.375,
+    "incremental_outcome_ci_lo": 468229.0625,
+    "incremental_outcome_mean": 492947.8125,
+    "spend": 606918.75,
+    "weekly_spend": 3034.59375
+  },
+  {
+    "spend_multiplier": 1.04,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 328450.1875,
+    "incremental_outcome_ci_lo": 283186.75,
+    "incremental_outcome_mean": 306231.875,
+    "spend": 460425.65625,
+    "weekly_spend": 2302.128173828125
+  },
+  {
+    "spend_multiplier": 1.04,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 439912.46875,
+    "incremental_outcome_ci_lo": 379247.03125,
+    "incremental_outcome_mean": 407670.03125,
+    "spend": 316310.375,
+    "weekly_spend": 1581.5518798828125
+  },
+  {
+    "spend_multiplier": 1.04,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 522029.46875,
+    "incremental_outcome_ci_lo": 471514.25,
+    "incremental_outcome_mean": 496510.0625,
+    "spend": 612811.125,
+    "weekly_spend": 3064.0556640625
+  },
+  {
+    "spend_multiplier": 1.05,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 330796.65625,
+    "incremental_outcome_ci_lo": 285066.6875,
+    "incremental_outcome_mean": 308284.53125,
+    "spend": 464852.84375,
+    "weekly_spend": 2324.26416015625
+  },
+  {
+    "spend_multiplier": 1.05,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 442513.9375,
+    "incremental_outcome_ci_lo": 381431.6875,
+    "incremental_outcome_mean": 410056.96875,
+    "spend": 319351.8125,
+    "weekly_spend": 1596.759033203125
+  },
+  {
+    "spend_multiplier": 1.05,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 525647.6875,
+    "incremental_outcome_ci_lo": 474904.59375,
+    "incremental_outcome_mean": 500058.09375,
+    "spend": 618703.5625,
+    "weekly_spend": 3093.517822265625
+  },
+  {
+    "spend_multiplier": 1.06,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 332983.71875,
+    "incremental_outcome_ci_lo": 286993.21875,
+    "incremental_outcome_mean": 310327.0625,
+    "spend": 469280.0,
+    "weekly_spend": 2346.39990234375
+  },
+  {
+    "spend_multiplier": 1.06,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 445003.96875,
+    "incremental_outcome_ci_lo": 383608.5625,
+    "incremental_outcome_mean": 412427.03125,
+    "spend": 322393.25,
+    "weekly_spend": 1611.96630859375
+  },
+  {
+    "spend_multiplier": 1.06,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 529334.75,
+    "incremental_outcome_ci_lo": 478306.15625,
+    "incremental_outcome_mean": 503587.53125,
+    "spend": 624595.9375,
+    "weekly_spend": 3122.979736328125
+  },
+  {
+    "spend_multiplier": 1.07,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 335266.375,
+    "incremental_outcome_ci_lo": 288906.28125,
+    "incremental_outcome_mean": 312358.90625,
+    "spend": 473707.21875,
+    "weekly_spend": 2368.5361328125
+  },
+  {
+    "spend_multiplier": 1.07,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 447447.125,
+    "incremental_outcome_ci_lo": 385760.09375,
+    "incremental_outcome_mean": 414780.0,
+    "spend": 325434.71875,
+    "weekly_spend": 1627.173583984375
+  },
+  {
+    "spend_multiplier": 1.07,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 533049.5,
+    "incremental_outcome_ci_lo": 481695.25,
+    "incremental_outcome_mean": 507102.09375,
+    "spend": 630488.4375,
+    "weekly_spend": 3152.442138671875
+  },
+  {
+    "spend_multiplier": 1.08,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 337380.3125,
+    "incremental_outcome_ci_lo": 290814.125,
+    "incremental_outcome_mean": 314378.59375,
+    "spend": 478134.375,
+    "weekly_spend": 2390.671875
+  },
+  {
+    "spend_multiplier": 1.08,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 449841.125,
+    "incremental_outcome_ci_lo": 387863.65625,
+    "incremental_outcome_mean": 417116.03125,
+    "spend": 328476.1875,
+    "weekly_spend": 1642.3809814453125
+  },
+  {
+    "spend_multiplier": 1.08,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 536786.875,
+    "incremental_outcome_ci_lo": 485033.5625,
+    "incremental_outcome_mean": 510600.34375,
+    "spend": 636380.875,
+    "weekly_spend": 3181.904296875
+  },
+  {
+    "spend_multiplier": 1.09,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 339487.53125,
+    "incremental_outcome_ci_lo": 292654.90625,
+    "incremental_outcome_mean": 316388.59375,
+    "spend": 482561.53125,
+    "weekly_spend": 2412.8076171875
+  },
+  {
+    "spend_multiplier": 1.09,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 452444.4375,
+    "incremental_outcome_ci_lo": 389890.46875,
+    "incremental_outcome_mean": 419435.875,
+    "spend": 331517.625,
+    "weekly_spend": 1657.588134765625
+  },
+  {
+    "spend_multiplier": 1.09,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 540429.1875,
+    "incremental_outcome_ci_lo": 488359.84375,
+    "incremental_outcome_mean": 514082.40625,
+    "spend": 642273.25,
+    "weekly_spend": 3211.3662109375
+  },
+  {
+    "spend_multiplier": 1.1,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 341683.8125,
+    "incremental_outcome_ci_lo": 294533.78125,
+    "incremental_outcome_mean": 318387.875,
+    "spend": 486988.71875,
+    "weekly_spend": 2434.943603515625
+  },
+  {
+    "spend_multiplier": 1.1,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 454978.4375,
+    "incremental_outcome_ci_lo": 392034.9375,
+    "incremental_outcome_mean": 421739.09375,
+    "spend": 334559.0625,
+    "weekly_spend": 1672.7952880859375
+  },
+  {
+    "spend_multiplier": 1.1,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 544041.9375,
+    "incremental_outcome_ci_lo": 491679.15625,
+    "incremental_outcome_mean": 517549.6875,
+    "spend": 648165.6875,
+    "weekly_spend": 3240.828369140625
+  },
+  {
+    "spend_multiplier": 1.11,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 343880.5625,
+    "incremental_outcome_ci_lo": 296319.71875,
+    "incremental_outcome_mean": 320375.4375,
+    "spend": 491415.875,
+    "weekly_spend": 2457.079345703125
+  },
+  {
+    "spend_multiplier": 1.11,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 457497.84375,
+    "incremental_outcome_ci_lo": 394046.59375,
+    "incremental_outcome_mean": 424025.78125,
+    "spend": 337600.5,
+    "weekly_spend": 1688.00244140625
+  },
+  {
+    "spend_multiplier": 1.11,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 547584.1875,
+    "incremental_outcome_ci_lo": 494830.5625,
+    "incremental_outcome_mean": 521000.0625,
+    "spend": 654058.0625,
+    "weekly_spend": 3270.290283203125
+  },
+  {
+    "spend_multiplier": 1.12,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 345963.90625,
+    "incremental_outcome_ci_lo": 298145.59375,
+    "incremental_outcome_mean": 322353.90625,
+    "spend": 495843.03125,
+    "weekly_spend": 2479.215087890625
+  },
+  {
+    "spend_multiplier": 1.12,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 460066.0625,
+    "incremental_outcome_ci_lo": 396038.5625,
+    "incremental_outcome_mean": 426297.25,
+    "spend": 340641.9375,
+    "weekly_spend": 1703.209716796875
+  },
+  {
+    "spend_multiplier": 1.12,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 551206.625,
+    "incremental_outcome_ci_lo": 498243.0,
+    "incremental_outcome_mean": 524435.5,
+    "spend": 659950.5,
+    "weekly_spend": 3299.75244140625
+  },
+  {
+    "spend_multiplier": 1.1300000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 348017.59375,
+    "incremental_outcome_ci_lo": 299923.5625,
+    "incremental_outcome_mean": 324321.8125,
+    "spend": 500270.21875,
+    "weekly_spend": 2501.35107421875
+  },
+  {
+    "spend_multiplier": 1.1300000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 462621.71875,
+    "incremental_outcome_ci_lo": 398072.0625,
+    "incremental_outcome_mean": 428552.03125,
+    "spend": 343683.375,
+    "weekly_spend": 1718.4168701171875
+  },
+  {
+    "spend_multiplier": 1.1300000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 554693.875,
+    "incremental_outcome_ci_lo": 501454.3125,
+    "incremental_outcome_mean": 527856.125,
+    "spend": 665842.875,
+    "weekly_spend": 3329.21435546875
+  },
+  {
+    "spend_multiplier": 1.1400000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 350038.0625,
+    "incremental_outcome_ci_lo": 301769.875,
+    "incremental_outcome_mean": 326279.03125,
+    "spend": 504697.375,
+    "weekly_spend": 2523.48681640625
+  },
+  {
+    "spend_multiplier": 1.1400000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 465159.84375,
+    "incremental_outcome_ci_lo": 400060.875,
+    "incremental_outcome_mean": 430792.21875,
+    "spend": 346724.84375,
+    "weekly_spend": 1733.624267578125
+  },
+  {
+    "spend_multiplier": 1.1400000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 558329.25,
+    "incremental_outcome_ci_lo": 504734.875,
+    "incremental_outcome_mean": 531260.875,
+    "spend": 671735.3125,
+    "weekly_spend": 3358.676513671875
+  },
+  {
+    "spend_multiplier": 1.1500000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 351965.5,
+    "incremental_outcome_ci_lo": 303566.875,
+    "incremental_outcome_mean": 328225.5,
+    "spend": 509124.53125,
+    "weekly_spend": 2545.62255859375
+  },
+  {
+    "spend_multiplier": 1.1500000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 467681.03125,
+    "incremental_outcome_ci_lo": 401870.15625,
+    "incremental_outcome_mean": 433015.4375,
+    "spend": 349766.28125,
+    "weekly_spend": 1748.8314208984375
+  },
+  {
+    "spend_multiplier": 1.1500000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 561855.25,
+    "incremental_outcome_ci_lo": 507940.09375,
+    "incremental_outcome_mean": 534649.1875,
+    "spend": 677627.6875,
+    "weekly_spend": 3388.138427734375
+  },
+  {
+    "spend_multiplier": 1.16,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 354066.40625,
+    "incremental_outcome_ci_lo": 305357.59375,
+    "incremental_outcome_mean": 330162.53125,
+    "spend": 513551.71875,
+    "weekly_spend": 2567.758544921875
+  },
+  {
+    "spend_multiplier": 1.16,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 470117.84375,
+    "incremental_outcome_ci_lo": 403711.46875,
+    "incremental_outcome_mean": 435225.15625,
+    "spend": 352807.71875,
+    "weekly_spend": 1764.03857421875
+  },
+  {
+    "spend_multiplier": 1.16,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 565420.25,
+    "incremental_outcome_ci_lo": 511120.21875,
+    "incremental_outcome_mean": 538025.5,
+    "spend": 683520.125,
+    "weekly_spend": 3417.6005859375
+  },
+  {
+    "spend_multiplier": 1.17,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 356169.84375,
+    "incremental_outcome_ci_lo": 307112.90625,
+    "incremental_outcome_mean": 332089.5625,
+    "spend": 517978.875,
+    "weekly_spend": 2589.894287109375
+  },
+  {
+    "spend_multiplier": 1.17,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 472674.6875,
+    "incremental_outcome_ci_lo": 405653.53125,
+    "incremental_outcome_mean": 437418.4375,
+    "spend": 355849.15625,
+    "weekly_spend": 1779.2457275390625
+  },
+  {
+    "spend_multiplier": 1.17,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 568942.1875,
+    "incremental_outcome_ci_lo": 514297.78125,
+    "incremental_outcome_mean": 541383.4375,
+    "spend": 689412.5,
+    "weekly_spend": 3447.0625
+  },
+  {
+    "spend_multiplier": 1.18,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 358305.3125,
+    "incremental_outcome_ci_lo": 308889.84375,
+    "incremental_outcome_mean": 334006.53125,
+    "spend": 522406.03125,
+    "weekly_spend": 2612.0302734375
+  },
+  {
+    "spend_multiplier": 1.18,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 475152.0625,
+    "incremental_outcome_ci_lo": 407578.71875,
+    "incremental_outcome_mean": 439596.84375,
+    "spend": 358890.59375,
+    "weekly_spend": 1794.4530029296875
+  },
+  {
+    "spend_multiplier": 1.18,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 572357.3125,
+    "incremental_outcome_ci_lo": 517459.90625,
+    "incremental_outcome_mean": 544729.0625,
+    "spend": 695304.9375,
+    "weekly_spend": 3476.524658203125
+  },
+  {
+    "spend_multiplier": 1.19,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 360368.40625,
+    "incremental_outcome_ci_lo": 310501.40625,
+    "incremental_outcome_mean": 335912.90625,
+    "spend": 526833.25,
+    "weekly_spend": 2634.166259765625
+  },
+  {
+    "spend_multiplier": 1.19,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 477614.71875,
+    "incremental_outcome_ci_lo": 409329.15625,
+    "incremental_outcome_mean": 441761.46875,
+    "spend": 361932.09375,
+    "weekly_spend": 1809.6605224609375
+  },
+  {
+    "spend_multiplier": 1.19,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 575893.8125,
+    "incremental_outcome_ci_lo": 520638.0625,
+    "incremental_outcome_mean": 548059.375,
+    "spend": 701197.4375,
+    "weekly_spend": 3505.9873046875
+  },
+  {
+    "spend_multiplier": 1.2,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 362475.03125,
+    "incremental_outcome_ci_lo": 312254.5,
+    "incremental_outcome_mean": 337810.875,
+    "spend": 531260.4375,
+    "weekly_spend": 2656.30224609375
+  },
+  {
+    "spend_multiplier": 1.2,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 480048.3125,
+    "incremental_outcome_ci_lo": 411164.09375,
+    "incremental_outcome_mean": 443910.71875,
+    "spend": 364973.53125,
+    "weekly_spend": 1824.86767578125
+  },
+  {
+    "spend_multiplier": 1.2,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 579308.875,
+    "incremental_outcome_ci_lo": 523707.84375,
+    "incremental_outcome_mean": 551375.3125,
+    "spend": 707089.8125,
+    "weekly_spend": 3535.448974609375
+  },
+  {
+    "spend_multiplier": 1.21,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 364561.5625,
+    "incremental_outcome_ci_lo": 313911.34375,
+    "incremental_outcome_mean": 339698.75,
+    "spend": 535687.5625,
+    "weekly_spend": 2678.437744140625
+  },
+  {
+    "spend_multiplier": 1.21,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 482602.28125,
+    "incremental_outcome_ci_lo": 412926.8125,
+    "incremental_outcome_mean": 446045.3125,
+    "spend": 368014.96875,
+    "weekly_spend": 1840.0748291015625
+  },
+  {
+    "spend_multiplier": 1.21,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 582872.1875,
+    "incremental_outcome_ci_lo": 526761.5625,
+    "incremental_outcome_mean": 554676.125,
+    "spend": 712982.25,
+    "weekly_spend": 3564.9111328125
+  },
+  {
+    "spend_multiplier": 1.22,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 366641.46875,
+    "incremental_outcome_ci_lo": 315508.875,
+    "incremental_outcome_mean": 341576.25,
+    "spend": 540114.75,
+    "weekly_spend": 2700.57373046875
+  },
+  {
+    "spend_multiplier": 1.22,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 484986.875,
+    "incremental_outcome_ci_lo": 414596.3125,
+    "incremental_outcome_mean": 448166.0625,
+    "spend": 371056.40625,
+    "weekly_spend": 1855.281982421875
+  },
+  {
+    "spend_multiplier": 1.22,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 586424.9375,
+    "incremental_outcome_ci_lo": 529881.3125,
+    "incremental_outcome_mean": 557964.25,
+    "spend": 718874.625,
+    "weekly_spend": 3594.373046875
+  },
+  {
+    "spend_multiplier": 1.23,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 368712.875,
+    "incremental_outcome_ci_lo": 317166.84375,
+    "incremental_outcome_mean": 343445.375,
+    "spend": 544541.9375,
+    "weekly_spend": 2722.709716796875
+  },
+  {
+    "spend_multiplier": 1.23,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 487414.0625,
+    "incremental_outcome_ci_lo": 416254.71875,
+    "incremental_outcome_mean": 450271.53125,
+    "spend": 374097.84375,
+    "weekly_spend": 1870.4892578125
+  },
+  {
+    "spend_multiplier": 1.23,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 589947.1875,
+    "incremental_outcome_ci_lo": 533048.125,
+    "incremental_outcome_mean": 561235.4375,
+    "spend": 724767.0625,
+    "weekly_spend": 3623.835205078125
+  },
+  {
+    "spend_multiplier": 1.24,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 370870.4375,
+    "incremental_outcome_ci_lo": 318847.84375,
+    "incremental_outcome_mean": 345304.0625,
+    "spend": 548969.0625,
+    "weekly_spend": 2744.84521484375
+  },
+  {
+    "spend_multiplier": 1.24,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 489872.5625,
+    "incremental_outcome_ci_lo": 418067.4375,
+    "incremental_outcome_mean": 452364.5625,
+    "spend": 377139.3125,
+    "weekly_spend": 1885.696533203125
+  },
+  {
+    "spend_multiplier": 1.24,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 593365.75,
+    "incremental_outcome_ci_lo": 536153.9375,
+    "incremental_outcome_mean": 564494.4375,
+    "spend": 730659.4375,
+    "weekly_spend": 3653.297119140625
+  },
+  {
+    "spend_multiplier": 1.25,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 372975.375,
+    "incremental_outcome_ci_lo": 320557.6875,
+    "incremental_outcome_mean": 347154.40625,
+    "spend": 553396.25,
+    "weekly_spend": 2766.981201171875
+  },
+  {
+    "spend_multiplier": 1.25,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 492225.71875,
+    "incremental_outcome_ci_lo": 419835.1875,
+    "incremental_outcome_mean": 454442.5625,
+    "spend": 380180.75,
+    "weekly_spend": 1900.90380859375
+  },
+  {
+    "spend_multiplier": 1.25,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 596689.125,
+    "incremental_outcome_ci_lo": 539227.125,
+    "incremental_outcome_mean": 567739.4375,
+    "spend": 736551.875,
+    "weekly_spend": 3682.75927734375
+  },
+  {
+    "spend_multiplier": 1.26,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 374915.65625,
+    "incremental_outcome_ci_lo": 322206.625,
+    "incremental_outcome_mean": 348994.84375,
+    "spend": 557823.4375,
+    "weekly_spend": 2789.1171875
+  },
+  {
+    "spend_multiplier": 1.26,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 494622.6875,
+    "incremental_outcome_ci_lo": 421601.4375,
+    "incremental_outcome_mean": 456507.03125,
+    "spend": 383222.1875,
+    "weekly_spend": 1916.1109619140625
+  },
+  {
+    "spend_multiplier": 1.26,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 600232.625,
+    "incremental_outcome_ci_lo": 542300.3125,
+    "incremental_outcome_mean": 570970.1875,
+    "spend": 742444.3125,
+    "weekly_spend": 3712.2216796875
+  },
+  {
+    "spend_multiplier": 1.27,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 377024.4375,
+    "incremental_outcome_ci_lo": 323881.34375,
+    "incremental_outcome_mean": 350826.375,
+    "spend": 562250.5625,
+    "weekly_spend": 2811.2529296875
+  },
+  {
+    "spend_multiplier": 1.27,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 496842.5,
+    "incremental_outcome_ci_lo": 423400.0,
+    "incremental_outcome_mean": 458557.8125,
+    "spend": 386263.625,
+    "weekly_spend": 1931.318115234375
+  },
+  {
+    "spend_multiplier": 1.27,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 603675.875,
+    "incremental_outcome_ci_lo": 545333.125,
+    "incremental_outcome_mean": 574186.125,
+    "spend": 748336.6875,
+    "weekly_spend": 3741.683349609375
+  },
+  {
+    "spend_multiplier": 1.28,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 379103.03125,
+    "incremental_outcome_ci_lo": 325546.0625,
+    "incremental_outcome_mean": 352648.03125,
+    "spend": 566677.75,
+    "weekly_spend": 2833.388671875
+  },
+  {
+    "spend_multiplier": 1.28,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 499385.9375,
+    "incremental_outcome_ci_lo": 425106.125,
+    "incremental_outcome_mean": 460594.5625,
+    "spend": 389305.0625,
+    "weekly_spend": 1946.5252685546875
+  },
+  {
+    "spend_multiplier": 1.28,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 607047.125,
+    "incremental_outcome_ci_lo": 548415.625,
+    "incremental_outcome_mean": 577389.875,
+    "spend": 754229.125,
+    "weekly_spend": 3771.1455078125
+  },
+  {
+    "spend_multiplier": 1.29,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 381112.0,
+    "incremental_outcome_ci_lo": 327127.90625,
+    "incremental_outcome_mean": 354461.25,
+    "spend": 571104.9375,
+    "weekly_spend": 2855.524658203125
+  },
+  {
+    "spend_multiplier": 1.29,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 501716.625,
+    "incremental_outcome_ci_lo": 426803.9375,
+    "incremental_outcome_mean": 462619.03125,
+    "spend": 392346.5,
+    "weekly_spend": 1961.7325439453125
+  },
+  {
+    "spend_multiplier": 1.29,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 610491.5625,
+    "incremental_outcome_ci_lo": 551459.125,
+    "incremental_outcome_mean": 580579.875,
+    "spend": 760121.5,
+    "weekly_spend": 3800.607421875
+  },
+  {
+    "spend_multiplier": 1.3,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 383098.03125,
+    "incremental_outcome_ci_lo": 328812.71875,
+    "incremental_outcome_mean": 356265.78125,
+    "spend": 575532.0625,
+    "weekly_spend": 2877.660400390625
+  },
+  {
+    "spend_multiplier": 1.3,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 503997.90625,
+    "incremental_outcome_ci_lo": 428405.96875,
+    "incremental_outcome_mean": 464630.09375,
+    "spend": 395387.96875,
+    "weekly_spend": 1976.9398193359375
+  },
+  {
+    "spend_multiplier": 1.3,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 613956.9375,
+    "incremental_outcome_ci_lo": 554523.1875,
+    "incremental_outcome_mean": 583755.8125,
+    "spend": 766013.9375,
+    "weekly_spend": 3830.069580078125
+  },
+  {
+    "spend_multiplier": 1.31,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 385051.71875,
+    "incremental_outcome_ci_lo": 330534.90625,
+    "incremental_outcome_mean": 358061.21875,
+    "spend": 579959.25,
+    "weekly_spend": 2899.796142578125
+  },
+  {
+    "spend_multiplier": 1.31,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 506158.90625,
+    "incremental_outcome_ci_lo": 430091.71875,
+    "incremental_outcome_mean": 466627.96875,
+    "spend": 398429.40625,
+    "weekly_spend": 1992.14697265625
+  },
+  {
+    "spend_multiplier": 1.31,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 617326.0,
+    "incremental_outcome_ci_lo": 557446.6875,
+    "incremental_outcome_mean": 586918.5,
+    "spend": 771906.3125,
+    "weekly_spend": 3859.531494140625
+  },
+  {
+    "spend_multiplier": 1.32,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 386984.21875,
+    "incremental_outcome_ci_lo": 332132.53125,
+    "incremental_outcome_mean": 359848.5625,
+    "spend": 584386.4375,
+    "weekly_spend": 2921.93212890625
+  },
+  {
+    "spend_multiplier": 1.32,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 508349.875,
+    "incremental_outcome_ci_lo": 431774.625,
+    "incremental_outcome_mean": 468613.0625,
+    "spend": 401470.875,
+    "weekly_spend": 2007.3543701171875
+  },
+  {
+    "spend_multiplier": 1.32,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 620767.875,
+    "incremental_outcome_ci_lo": 560334.0625,
+    "incremental_outcome_mean": 590068.125,
+    "spend": 777798.8125,
+    "weekly_spend": 3888.994140625
+  },
+  {
+    "spend_multiplier": 1.33,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 388909.6875,
+    "incremental_outcome_ci_lo": 333816.53125,
+    "incremental_outcome_mean": 361626.09375,
+    "spend": 588813.625,
+    "weekly_spend": 2944.068115234375
+  },
+  {
+    "spend_multiplier": 1.33,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 510625.0625,
+    "incremental_outcome_ci_lo": 433374.71875,
+    "incremental_outcome_mean": 470584.71875,
+    "spend": 404512.3125,
+    "weekly_spend": 2022.5615234375
+  },
+  {
+    "spend_multiplier": 1.33,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 624097.5625,
+    "incremental_outcome_ci_lo": 563348.9375,
+    "incremental_outcome_mean": 593204.375,
+    "spend": 783691.25,
+    "weekly_spend": 3918.456298828125
+  },
+  {
+    "spend_multiplier": 1.34,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 390863.8125,
+    "incremental_outcome_ci_lo": 335361.71875,
+    "incremental_outcome_mean": 363395.59375,
+    "spend": 593240.8125,
+    "weekly_spend": 2966.2041015625
+  },
+  {
+    "spend_multiplier": 1.34,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 512852.09375,
+    "incremental_outcome_ci_lo": 435043.90625,
+    "incremental_outcome_mean": 472544.5,
+    "spend": 407553.78125,
+    "weekly_spend": 2037.7689208984375
+  },
+  {
+    "spend_multiplier": 1.34,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 627395.9375,
+    "incremental_outcome_ci_lo": 566274.9375,
+    "incremental_outcome_mean": 596328.25,
+    "spend": 789583.625,
+    "weekly_spend": 3947.918212890625
+  },
+  {
+    "spend_multiplier": 1.35,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 392921.8125,
+    "incremental_outcome_ci_lo": 336800.0625,
+    "incremental_outcome_mean": 365156.75,
+    "spend": 597667.9375,
+    "weekly_spend": 2988.339599609375
+  },
+  {
+    "spend_multiplier": 1.35,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 515282.03125,
+    "incremental_outcome_ci_lo": 436613.5625,
+    "incremental_outcome_mean": 474491.625,
+    "spend": 410595.21875,
+    "weekly_spend": 2052.97607421875
+  },
+  {
+    "spend_multiplier": 1.35,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 630739.0,
+    "incremental_outcome_ci_lo": 569093.875,
+    "incremental_outcome_mean": 599438.625,
+    "spend": 795476.0625,
+    "weekly_spend": 3977.38037109375
+  },
+  {
+    "spend_multiplier": 1.36,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 394969.78125,
+    "incremental_outcome_ci_lo": 338381.4375,
+    "incremental_outcome_mean": 366908.71875,
+    "spend": 602095.125,
+    "weekly_spend": 3010.4755859375
+  },
+  {
+    "spend_multiplier": 1.36,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 517608.0625,
+    "incremental_outcome_ci_lo": 438191.59375,
+    "incremental_outcome_mean": 476424.875,
+    "spend": 413636.65625,
+    "weekly_spend": 2068.183349609375
+  },
+  {
+    "spend_multiplier": 1.36,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 634074.875,
+    "incremental_outcome_ci_lo": 571904.5,
+    "incremental_outcome_mean": 602535.3125,
+    "spend": 801368.4375,
+    "weekly_spend": 4006.84228515625
+  },
+  {
+    "spend_multiplier": 1.37,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 396895.96875,
+    "incremental_outcome_ci_lo": 339937.84375,
+    "incremental_outcome_mean": 368652.625,
+    "spend": 606522.3125,
+    "weekly_spend": 3032.611572265625
+  },
+  {
+    "spend_multiplier": 1.37,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 519863.34375,
+    "incremental_outcome_ci_lo": 439806.84375,
+    "incremental_outcome_mean": 478347.4375,
+    "spend": 416678.09375,
+    "weekly_spend": 2083.390380859375
+  },
+  {
+    "spend_multiplier": 1.37,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 637391.0625,
+    "incremental_outcome_ci_lo": 574850.625,
+    "incremental_outcome_mean": 605620.8125,
+    "spend": 807260.875,
+    "weekly_spend": 4036.304443359375
+  },
+  {
+    "spend_multiplier": 1.3800000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 398916.40625,
+    "incremental_outcome_ci_lo": 341418.84375,
+    "incremental_outcome_mean": 370388.34375,
+    "spend": 610949.4375,
+    "weekly_spend": 3054.7470703125
+  },
+  {
+    "spend_multiplier": 1.3800000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 522060.90625,
+    "incremental_outcome_ci_lo": 441255.40625,
+    "incremental_outcome_mean": 480257.78125,
+    "spend": 419719.53125,
+    "weekly_spend": 2098.59765625
+  },
+  {
+    "spend_multiplier": 1.3800000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 640549.25,
+    "incremental_outcome_ci_lo": 577738.8125,
+    "incremental_outcome_mean": 608691.75,
+    "spend": 813153.25,
+    "weekly_spend": 4065.766357421875
+  },
+  {
+    "spend_multiplier": 1.3900000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 400888.1875,
+    "incremental_outcome_ci_lo": 343020.46875,
+    "incremental_outcome_mean": 372115.0625,
+    "spend": 615376.625,
+    "weekly_spend": 3076.883056640625
+  },
+  {
+    "spend_multiplier": 1.3900000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 524210.0625,
+    "incremental_outcome_ci_lo": 442804.5625,
+    "incremental_outcome_mean": 482155.5625,
+    "spend": 422760.96875,
+    "weekly_spend": 2113.804931640625
+  },
+  {
+    "spend_multiplier": 1.3900000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 643684.5625,
+    "incremental_outcome_ci_lo": 580540.75,
+    "incremental_outcome_mean": 611751.375,
+    "spend": 819045.6875,
+    "weekly_spend": 4095.228515625
+  },
+  {
+    "spend_multiplier": 1.4000000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 402870.25,
+    "incremental_outcome_ci_lo": 344609.28125,
+    "incremental_outcome_mean": 373834.65625,
+    "spend": 619803.8125,
+    "weekly_spend": 3099.01904296875
+  },
+  {
+    "spend_multiplier": 1.4000000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 526339.25,
+    "incremental_outcome_ci_lo": 444264.15625,
+    "incremental_outcome_mean": 484041.78125,
+    "spend": 425802.4375,
+    "weekly_spend": 2129.01220703125
+  },
+  {
+    "spend_multiplier": 1.4000000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 646858.0,
+    "incremental_outcome_ci_lo": 583346.0625,
+    "incremental_outcome_mean": 614798.3125,
+    "spend": 824938.0625,
+    "weekly_spend": 4124.6904296875
+  },
+  {
+    "spend_multiplier": 1.41,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 404657.3125,
+    "incremental_outcome_ci_lo": 346112.6875,
+    "incremental_outcome_mean": 375545.25,
+    "spend": 624230.9375,
+    "weekly_spend": 3121.15478515625
+  },
+  {
+    "spend_multiplier": 1.41,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 528508.4375,
+    "incremental_outcome_ci_lo": 445676.3125,
+    "incremental_outcome_mean": 485915.875,
+    "spend": 428843.875,
+    "weekly_spend": 2144.219482421875
+  },
+  {
+    "spend_multiplier": 1.41,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 650041.875,
+    "incremental_outcome_ci_lo": 586171.9375,
+    "incremental_outcome_mean": 617833.625,
+    "spend": 830830.5,
+    "weekly_spend": 4154.15234375
+  },
+  {
+    "spend_multiplier": 1.42,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 406461.21875,
+    "incremental_outcome_ci_lo": 347560.28125,
+    "incremental_outcome_mean": 377248.5625,
+    "spend": 628658.125,
+    "weekly_spend": 3143.29052734375
+  },
+  {
+    "spend_multiplier": 1.42,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 530905.0,
+    "incremental_outcome_ci_lo": 447214.03125,
+    "incremental_outcome_mean": 487778.71875,
+    "spend": 431885.3125,
+    "weekly_spend": 2159.426513671875
+  },
+  {
+    "spend_multiplier": 1.42,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 653311.375,
+    "incremental_outcome_ci_lo": 589009.875,
+    "incremental_outcome_mean": 620854.875,
+    "spend": 836722.875,
+    "weekly_spend": 4183.6142578125
+  },
+  {
+    "spend_multiplier": 1.43,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 408321.1875,
+    "incremental_outcome_ci_lo": 349052.46875,
+    "incremental_outcome_mean": 378943.46875,
+    "spend": 633085.3125,
+    "weekly_spend": 3165.426513671875
+  },
+  {
+    "spend_multiplier": 1.43,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 532981.6875,
+    "incremental_outcome_ci_lo": 448659.40625,
+    "incremental_outcome_mean": 489629.0,
+    "spend": 434926.75,
+    "weekly_spend": 2174.6337890625
+  },
+  {
+    "spend_multiplier": 1.43,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 656544.8125,
+    "incremental_outcome_ci_lo": 591820.5625,
+    "incremental_outcome_mean": 623865.0,
+    "spend": 842615.3125,
+    "weekly_spend": 4213.07666015625
+  },
+  {
+    "spend_multiplier": 1.44,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 410221.09375,
+    "incremental_outcome_ci_lo": 350429.96875,
+    "incremental_outcome_mean": 380629.96875,
+    "spend": 637512.5,
+    "weekly_spend": 3187.5625
+  },
+  {
+    "spend_multiplier": 1.44,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 535127.5625,
+    "incremental_outcome_ci_lo": 450081.0,
+    "incremental_outcome_mean": 491468.875,
+    "spend": 437968.21875,
+    "weekly_spend": 2189.841064453125
+  },
+  {
+    "spend_multiplier": 1.44,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 659796.0,
+    "incremental_outcome_ci_lo": 594607.1875,
+    "incremental_outcome_mean": 626863.0625,
+    "spend": 848507.8125,
+    "weekly_spend": 4242.5390625
+  },
+  {
+    "spend_multiplier": 1.45,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 412109.15625,
+    "incremental_outcome_ci_lo": 351837.53125,
+    "incremental_outcome_mean": 382308.34375,
+    "spend": 641939.6875,
+    "weekly_spend": 3209.698486328125
+  },
+  {
+    "spend_multiplier": 1.45,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 537231.3125,
+    "incremental_outcome_ci_lo": 451431.625,
+    "incremental_outcome_mean": 493297.375,
+    "spend": 441009.6875,
+    "weekly_spend": 2205.04833984375
+  },
+  {
+    "spend_multiplier": 1.45,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 662972.375,
+    "incremental_outcome_ci_lo": 597468.5625,
+    "incremental_outcome_mean": 629850.0,
+    "spend": 854400.1875,
+    "weekly_spend": 4272.0009765625
+  },
+  {
+    "spend_multiplier": 1.46,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 414139.09375,
+    "incremental_outcome_ci_lo": 353392.78125,
+    "incremental_outcome_mean": 383980.28125,
+    "spend": 646366.8125,
+    "weekly_spend": 3231.833984375
+  },
+  {
+    "spend_multiplier": 1.46,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 539454.125,
+    "incremental_outcome_ci_lo": 452639.15625,
+    "incremental_outcome_mean": 495114.71875,
+    "spend": 444051.125,
+    "weekly_spend": 2220.255615234375
+  },
+  {
+    "spend_multiplier": 1.46,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 666086.375,
+    "incremental_outcome_ci_lo": 600342.1875,
+    "incremental_outcome_mean": 632822.8125,
+    "spend": 860292.625,
+    "weekly_spend": 4301.462890625
+  },
+  {
+    "spend_multiplier": 1.47,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 415966.03125,
+    "incremental_outcome_ci_lo": 354961.875,
+    "incremental_outcome_mean": 385643.15625,
+    "spend": 650794.0,
+    "weekly_spend": 3253.969970703125
+  },
+  {
+    "spend_multiplier": 1.47,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 541729.125,
+    "incremental_outcome_ci_lo": 454098.78125,
+    "incremental_outcome_mean": 496920.1875,
+    "spend": 447092.5625,
+    "weekly_spend": 2235.462890625
+  },
+  {
+    "spend_multiplier": 1.47,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 669333.6875,
+    "incremental_outcome_ci_lo": 603083.5625,
+    "incremental_outcome_mean": 635784.25,
+    "spend": 866185.0,
+    "weekly_spend": 4330.9248046875
+  },
+  {
+    "spend_multiplier": 1.48,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 417799.09375,
+    "incremental_outcome_ci_lo": 356487.5625,
+    "incremental_outcome_mean": 387299.59375,
+    "spend": 655221.1875,
+    "weekly_spend": 3276.10595703125
+  },
+  {
+    "spend_multiplier": 1.48,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 544101.8125,
+    "incremental_outcome_ci_lo": 455430.5625,
+    "incremental_outcome_mean": 498714.8125,
+    "spend": 450134.0,
+    "weekly_spend": 2250.669921875
+  },
+  {
+    "spend_multiplier": 1.48,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 672561.0625,
+    "incremental_outcome_ci_lo": 605866.375,
+    "incremental_outcome_mean": 638733.875,
+    "spend": 872077.4375,
+    "weekly_spend": 4360.38720703125
+  },
+  {
+    "spend_multiplier": 1.49,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 419621.65625,
+    "incremental_outcome_ci_lo": 357852.375,
+    "incremental_outcome_mean": 388947.375,
+    "spend": 659648.3125,
+    "weekly_spend": 3298.241455078125
+  },
+  {
+    "spend_multiplier": 1.49,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 546389.5625,
+    "incremental_outcome_ci_lo": 456730.5,
+    "incremental_outcome_mean": 500497.59375,
+    "spend": 453175.4375,
+    "weekly_spend": 2265.877197265625
+  },
+  {
+    "spend_multiplier": 1.49,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 675604.3125,
+    "incremental_outcome_ci_lo": 608533.875,
+    "incremental_outcome_mean": 641672.875,
+    "spend": 877969.8125,
+    "weekly_spend": 4389.84912109375
+  },
+  {
+    "spend_multiplier": 1.5,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 421560.15625,
+    "incremental_outcome_ci_lo": 359253.875,
+    "incremental_outcome_mean": 390588.25,
+    "spend": 664075.5,
+    "weekly_spend": 3320.37744140625
+  },
+  {
+    "spend_multiplier": 1.5,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 548625.3125,
+    "incremental_outcome_ci_lo": 457911.03125,
+    "incremental_outcome_mean": 502271.6875,
+    "spend": 456216.875,
+    "weekly_spend": 2281.08447265625
+  },
+  {
+    "spend_multiplier": 1.5,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 678686.1875,
+    "incremental_outcome_ci_lo": 611204.0,
+    "incremental_outcome_mean": 644599.3125,
+    "spend": 883862.25,
+    "weekly_spend": 4419.31103515625
+  },
+  {
+    "spend_multiplier": 1.51,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 423336.125,
+    "incremental_outcome_ci_lo": 360642.375,
+    "incremental_outcome_mean": 392220.8125,
+    "spend": 668502.6875,
+    "weekly_spend": 3342.513427734375
+  },
+  {
+    "spend_multiplier": 1.51,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 550756.0,
+    "incremental_outcome_ci_lo": 459310.65625,
+    "incremental_outcome_mean": 504033.03125,
+    "spend": 459258.34375,
+    "weekly_spend": 2296.291748046875
+  },
+  {
+    "spend_multiplier": 1.51,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 681852.9375,
+    "incremental_outcome_ci_lo": 613894.9375,
+    "incremental_outcome_mean": 647515.5,
+    "spend": 889754.6875,
+    "weekly_spend": 4448.7734375
+  },
+  {
+    "spend_multiplier": 1.52,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 425213.75,
+    "incremental_outcome_ci_lo": 362040.125,
+    "incremental_outcome_mean": 393847.125,
+    "spend": 672929.8125,
+    "weekly_spend": 3364.649169921875
+  },
+  {
+    "spend_multiplier": 1.52,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 552837.375,
+    "incremental_outcome_ci_lo": 460598.3125,
+    "incremental_outcome_mean": 505784.96875,
+    "spend": 462299.78125,
+    "weekly_spend": 2311.4990234375
+  },
+  {
+    "spend_multiplier": 1.52,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 684953.0625,
+    "incremental_outcome_ci_lo": 616544.1875,
+    "incremental_outcome_mean": 650418.375,
+    "spend": 895647.0625,
+    "weekly_spend": 4478.2353515625
+  },
+  {
+    "spend_multiplier": 1.53,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 426950.15625,
+    "incremental_outcome_ci_lo": 363459.875,
+    "incremental_outcome_mean": 395465.125,
+    "spend": 677357.0,
+    "weekly_spend": 3386.784912109375
+  },
+  {
+    "spend_multiplier": 1.53,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 554922.0,
+    "incremental_outcome_ci_lo": 461869.25,
+    "incremental_outcome_mean": 507526.4375,
+    "spend": 465341.21875,
+    "weekly_spend": 2326.7060546875
+  },
+  {
+    "spend_multiplier": 1.53,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 688090.875,
+    "incremental_outcome_ci_lo": 619212.6875,
+    "incremental_outcome_mean": 653310.5625,
+    "spend": 901539.5,
+    "weekly_spend": 4507.697265625
+  },
+  {
+    "spend_multiplier": 1.54,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 428764.3125,
+    "incremental_outcome_ci_lo": 364887.53125,
+    "incremental_outcome_mean": 397075.9375,
+    "spend": 681784.1875,
+    "weekly_spend": 3408.9208984375
+  },
+  {
+    "spend_multiplier": 1.54,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 556854.3125,
+    "incremental_outcome_ci_lo": 463130.1875,
+    "incremental_outcome_mean": 509257.96875,
+    "spend": 468382.65625,
+    "weekly_spend": 2341.913330078125
+  },
+  {
+    "spend_multiplier": 1.54,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 691243.875,
+    "incremental_outcome_ci_lo": 621849.8125,
+    "incremental_outcome_mean": 656190.5,
+    "spend": 907431.875,
+    "weekly_spend": 4537.1591796875
+  },
+  {
+    "spend_multiplier": 1.55,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 430581.5625,
+    "incremental_outcome_ci_lo": 366220.1875,
+    "incremental_outcome_mean": 398679.6875,
+    "spend": 686211.3125,
+    "weekly_spend": 3431.056640625
+  },
+  {
+    "spend_multiplier": 1.55,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 559086.25,
+    "incremental_outcome_ci_lo": 464390.5,
+    "incremental_outcome_mean": 510977.75,
+    "spend": 471424.09375,
+    "weekly_spend": 2357.120361328125
+  },
+  {
+    "spend_multiplier": 1.55,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 694466.75,
+    "incremental_outcome_ci_lo": 624483.3125,
+    "incremental_outcome_mean": 659061.125,
+    "spend": 913324.3125,
+    "weekly_spend": 4566.62158203125
+  },
+  {
+    "spend_multiplier": 1.56,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 432396.40625,
+    "incremental_outcome_ci_lo": 367519.0,
+    "incremental_outcome_mean": 400276.0625,
+    "spend": 690638.5,
+    "weekly_spend": 3453.1923828125
+  },
+  {
+    "spend_multiplier": 1.56,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 561021.875,
+    "incremental_outcome_ci_lo": 465643.53125,
+    "incremental_outcome_mean": 512688.5625,
+    "spend": 474465.5625,
+    "weekly_spend": 2372.327880859375
+  },
+  {
+    "spend_multiplier": 1.56,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 697614.6875,
+    "incremental_outcome_ci_lo": 627108.8125,
+    "incremental_outcome_mean": 661919.1875,
+    "spend": 919216.6875,
+    "weekly_spend": 4596.08349609375
+  },
+  {
+    "spend_multiplier": 1.57,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 434215.59375,
+    "incremental_outcome_ci_lo": 368863.5,
+    "incremental_outcome_mean": 401865.75,
+    "spend": 695065.6875,
+    "weekly_spend": 3475.328369140625
+  },
+  {
+    "spend_multiplier": 1.57,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 563131.4375,
+    "incremental_outcome_ci_lo": 466857.25,
+    "incremental_outcome_mean": 514388.28125,
+    "spend": 477507.03125,
+    "weekly_spend": 2387.53515625
+  },
+  {
+    "spend_multiplier": 1.57,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 700641.875,
+    "incremental_outcome_ci_lo": 629722.0625,
+    "incremental_outcome_mean": 664766.5625,
+    "spend": 925109.1875,
+    "weekly_spend": 4625.5458984375
+  },
+  {
+    "spend_multiplier": 1.58,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 436056.71875,
+    "incremental_outcome_ci_lo": 370118.25,
+    "incremental_outcome_mean": 403448.1875,
+    "spend": 699492.875,
+    "weekly_spend": 3497.46435546875
+  },
+  {
+    "spend_multiplier": 1.58,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 565297.1875,
+    "incremental_outcome_ci_lo": 468024.875,
+    "incremental_outcome_mean": 516077.84375,
+    "spend": 480548.46875,
+    "weekly_spend": 2402.742431640625
+  },
+  {
+    "spend_multiplier": 1.58,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 703709.75,
+    "incremental_outcome_ci_lo": 632325.6875,
+    "incremental_outcome_mean": 667604.5,
+    "spend": 931001.625,
+    "weekly_spend": 4655.00830078125
+  },
+  {
+    "spend_multiplier": 1.59,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 437886.09375,
+    "incremental_outcome_ci_lo": 371421.625,
+    "incremental_outcome_mean": 405023.375,
+    "spend": 703920.0625,
+    "weekly_spend": 3519.600341796875
+  },
+  {
+    "spend_multiplier": 1.59,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 567443.5625,
+    "incremental_outcome_ci_lo": 469291.6875,
+    "incremental_outcome_mean": 517758.5625,
+    "spend": 483589.90625,
+    "weekly_spend": 2417.949462890625
+  },
+  {
+    "spend_multiplier": 1.59,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 706800.5,
+    "incremental_outcome_ci_lo": 634918.0625,
+    "incremental_outcome_mean": 670429.625,
+    "spend": 936894.0,
+    "weekly_spend": 4684.47021484375
+  },
+  {
+    "spend_multiplier": 1.6,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 439602.75,
+    "incremental_outcome_ci_lo": 372876.46875,
+    "incremental_outcome_mean": 406591.65625,
+    "spend": 708347.1875,
+    "weekly_spend": 3541.73583984375
+  },
+  {
+    "spend_multiplier": 1.6,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 569438.125,
+    "incremental_outcome_ci_lo": 470511.96875,
+    "incremental_outcome_mean": 519428.96875,
+    "spend": 486631.34375,
+    "weekly_spend": 2433.15673828125
+  },
+  {
+    "spend_multiplier": 1.6,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 709882.1875,
+    "incremental_outcome_ci_lo": 637490.3125,
+    "incremental_outcome_mean": 673244.0625,
+    "spend": 942786.4375,
+    "weekly_spend": 4713.93212890625
+  },
+  {
+    "spend_multiplier": 1.61,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 441468.21875,
+    "incremental_outcome_ci_lo": 374135.125,
+    "incremental_outcome_mean": 408152.3125,
+    "spend": 712774.375,
+    "weekly_spend": 3563.871826171875
+  },
+  {
+    "spend_multiplier": 1.61,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 571482.75,
+    "incremental_outcome_ci_lo": 471699.3125,
+    "incremental_outcome_mean": 521089.71875,
+    "spend": 489672.8125,
+    "weekly_spend": 2448.364013671875
+  },
+  {
+    "spend_multiplier": 1.61,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 712950.1875,
+    "incremental_outcome_ci_lo": 639932.4375,
+    "incremental_outcome_mean": 676048.1875,
+    "spend": 948678.8125,
+    "weekly_spend": 4743.39404296875
+  },
+  {
+    "spend_multiplier": 1.62,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 443280.78125,
+    "incremental_outcome_ci_lo": 375519.125,
+    "incremental_outcome_mean": 409707.40625,
+    "spend": 717201.5625,
+    "weekly_spend": 3586.0078125
+  },
+  {
+    "spend_multiplier": 1.62,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 573541.4375,
+    "incremental_outcome_ci_lo": 472982.4375,
+    "incremental_outcome_mean": 522740.34375,
+    "spend": 492714.25,
+    "weekly_spend": 2463.5712890625
+  },
+  {
+    "spend_multiplier": 1.62,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 716042.4375,
+    "incremental_outcome_ci_lo": 642498.6875,
+    "incremental_outcome_mean": 678841.125,
+    "spend": 954571.25,
+    "weekly_spend": 4772.8564453125
+  },
+  {
+    "spend_multiplier": 1.6300000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 445064.21875,
+    "incremental_outcome_ci_lo": 376788.6875,
+    "incremental_outcome_mean": 411254.15625,
+    "spend": 721628.6875,
+    "weekly_spend": 3608.1435546875
+  },
+  {
+    "spend_multiplier": 1.6300000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 575751.75,
+    "incremental_outcome_ci_lo": 474107.96875,
+    "incremental_outcome_mean": 524381.0,
+    "spend": 495755.6875,
+    "weekly_spend": 2478.7783203125
+  },
+  {
+    "spend_multiplier": 1.6300000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 719062.25,
+    "incremental_outcome_ci_lo": 645179.6875,
+    "incremental_outcome_mean": 681623.3125,
+    "spend": 960463.625,
+    "weekly_spend": 4802.318359375
+  },
+  {
+    "spend_multiplier": 1.6400000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 446931.5,
+    "incremental_outcome_ci_lo": 378086.625,
+    "incremental_outcome_mean": 412795.375,
+    "spend": 726055.875,
+    "weekly_spend": 3630.279296875
+  },
+  {
+    "spend_multiplier": 1.6400000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 577910.9375,
+    "incremental_outcome_ci_lo": 475345.375,
+    "incremental_outcome_mean": 526012.8125,
+    "spend": 498797.125,
+    "weekly_spend": 2493.985595703125
+  },
+  {
+    "spend_multiplier": 1.6400000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 722025.1875,
+    "incremental_outcome_ci_lo": 647743.75,
+    "incremental_outcome_mean": 684395.5,
+    "spend": 966356.0625,
+    "weekly_spend": 4831.7802734375
+  },
+  {
+    "spend_multiplier": 1.6500000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 448699.28125,
+    "incremental_outcome_ci_lo": 379406.5,
+    "incremental_outcome_mean": 414329.5,
+    "spend": 730483.0625,
+    "weekly_spend": 3652.415283203125
+  },
+  {
+    "spend_multiplier": 1.6500000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 579800.5625,
+    "incremental_outcome_ci_lo": 476399.1875,
+    "incremental_outcome_mean": 527635.0,
+    "spend": 501838.5625,
+    "weekly_spend": 2509.19287109375
+  },
+  {
+    "spend_multiplier": 1.6500000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 724987.5,
+    "incremental_outcome_ci_lo": 650367.0625,
+    "incremental_outcome_mean": 687157.0625,
+    "spend": 972248.4375,
+    "weekly_spend": 4861.2421875
+  },
+  {
+    "spend_multiplier": 1.6600000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 450377.0,
+    "incremental_outcome_ci_lo": 380733.125,
+    "incremental_outcome_mean": 415856.78125,
+    "spend": 734910.1875,
+    "weekly_spend": 3674.551025390625
+  },
+  {
+    "spend_multiplier": 1.6600000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 581650.6875,
+    "incremental_outcome_ci_lo": 477546.5625,
+    "incremental_outcome_mean": 529248.0625,
+    "spend": 504880.0,
+    "weekly_spend": 2524.39990234375
+  },
+  {
+    "spend_multiplier": 1.6600000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 727949.1875,
+    "incremental_outcome_ci_lo": 652765.25,
+    "incremental_outcome_mean": 689909.125,
+    "spend": 978140.875,
+    "weekly_spend": 4890.70458984375
+  },
+  {
+    "spend_multiplier": 1.67,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 452120.96875,
+    "incremental_outcome_ci_lo": 382078.15625,
+    "incremental_outcome_mean": 417377.46875,
+    "spend": 739337.375,
+    "weekly_spend": 3696.686767578125
+  },
+  {
+    "spend_multiplier": 1.67,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 583619.6875,
+    "incremental_outcome_ci_lo": 478685.6875,
+    "incremental_outcome_mean": 530851.6875,
+    "spend": 507921.46875,
+    "weekly_spend": 2539.607421875
+  },
+  {
+    "spend_multiplier": 1.67,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 730901.6875,
+    "incremental_outcome_ci_lo": 655275.125,
+    "incremental_outcome_mean": 692648.3125,
+    "spend": 984033.25,
+    "weekly_spend": 4920.166015625
+  },
+  {
+    "spend_multiplier": 1.68,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 453927.78125,
+    "incremental_outcome_ci_lo": 383393.53125,
+    "incremental_outcome_mean": 418892.0,
+    "spend": 743764.5625,
+    "weekly_spend": 3718.82275390625
+  },
+  {
+    "spend_multiplier": 1.68,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 585645.625,
+    "incremental_outcome_ci_lo": 479818.6875,
+    "incremental_outcome_mean": 532446.5625,
+    "spend": 510962.90625,
+    "weekly_spend": 2554.814453125
+  },
+  {
+    "spend_multiplier": 1.68,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 733818.125,
+    "incremental_outcome_ci_lo": 657727.875,
+    "incremental_outcome_mean": 695379.5625,
+    "spend": 989925.6875,
+    "weekly_spend": 4949.62841796875
+  },
+  {
+    "spend_multiplier": 1.69,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 455601.96875,
+    "incremental_outcome_ci_lo": 384694.84375,
+    "incremental_outcome_mean": 420399.15625,
+    "spend": 748191.75,
+    "weekly_spend": 3740.958740234375
+  },
+  {
+    "spend_multiplier": 1.69,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 587548.125,
+    "incremental_outcome_ci_lo": 480811.6875,
+    "incremental_outcome_mean": 534032.9375,
+    "spend": 514004.375,
+    "weekly_spend": 2570.02197265625
+  },
+  {
+    "spend_multiplier": 1.69,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 736838.0,
+    "incremental_outcome_ci_lo": 660204.3125,
+    "incremental_outcome_mean": 698100.375,
+    "spend": 995818.1875,
+    "weekly_spend": 4979.0908203125
+  },
+  {
+    "spend_multiplier": 1.7,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 457334.125,
+    "incremental_outcome_ci_lo": 386006.21875,
+    "incremental_outcome_mean": 421900.6875,
+    "spend": 752618.9375,
+    "weekly_spend": 3763.0947265625
+  },
+  {
+    "spend_multiplier": 1.7,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 589445.875,
+    "incremental_outcome_ci_lo": 481660.3125,
+    "incremental_outcome_mean": 535609.0625,
+    "spend": 517045.8125,
+    "weekly_spend": 2585.22900390625
+  },
+  {
+    "spend_multiplier": 1.7,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 739848.875,
+    "incremental_outcome_ci_lo": 662550.9375,
+    "incremental_outcome_mean": 700810.1875,
+    "spend": 1001710.5625,
+    "weekly_spend": 5008.552734375
+  },
+  {
+    "spend_multiplier": 1.71,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 459059.9375,
+    "incremental_outcome_ci_lo": 387182.5625,
+    "incremental_outcome_mean": 423395.0625,
+    "spend": 757046.0625,
+    "weekly_spend": 3785.230224609375
+  },
+  {
+    "spend_multiplier": 1.71,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 591452.75,
+    "incremental_outcome_ci_lo": 482769.5625,
+    "incremental_outcome_mean": 537176.6875,
+    "spend": 520087.28125,
+    "weekly_spend": 2600.4365234375
+  },
+  {
+    "spend_multiplier": 1.71,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 742822.875,
+    "incremental_outcome_ci_lo": 664942.1875,
+    "incremental_outcome_mean": 703509.6875,
+    "spend": 1007603.0,
+    "weekly_spend": 5038.01513671875
+  },
+  {
+    "spend_multiplier": 1.72,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 460772.4375,
+    "incremental_outcome_ci_lo": 388532.4375,
+    "incremental_outcome_mean": 424883.6875,
+    "spend": 761473.25,
+    "weekly_spend": 3807.3662109375
+  },
+  {
+    "spend_multiplier": 1.72,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 593344.125,
+    "incremental_outcome_ci_lo": 483906.5,
+    "incremental_outcome_mean": 538735.375,
+    "spend": 523128.71875,
+    "weekly_spend": 2615.6435546875
+  },
+  {
+    "spend_multiplier": 1.72,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 745822.9375,
+    "incremental_outcome_ci_lo": 667454.3125,
+    "incremental_outcome_mean": 706202.25,
+    "spend": 1013495.375,
+    "weekly_spend": 5067.47705078125
+  },
+  {
+    "spend_multiplier": 1.73,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 462487.8125,
+    "incremental_outcome_ci_lo": 389788.84375,
+    "incremental_outcome_mean": 426365.34375,
+    "spend": 765900.4375,
+    "weekly_spend": 3829.502197265625
+  },
+  {
+    "spend_multiplier": 1.73,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 595147.375,
+    "incremental_outcome_ci_lo": 484969.9375,
+    "incremental_outcome_mean": 540284.6875,
+    "spend": 526170.125,
+    "weekly_spend": 2630.8505859375
+  },
+  {
+    "spend_multiplier": 1.73,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 748700.375,
+    "incremental_outcome_ci_lo": 669835.6875,
+    "incremental_outcome_mean": 708880.25,
+    "spend": 1019387.8125,
+    "weekly_spend": 5096.93896484375
+  },
+  {
+    "spend_multiplier": 1.74,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 464182.5625,
+    "incremental_outcome_ci_lo": 391170.75,
+    "incremental_outcome_mean": 427841.59375,
+    "spend": 770327.5625,
+    "weekly_spend": 3851.6376953125
+  },
+  {
+    "spend_multiplier": 1.74,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 596971.625,
+    "incremental_outcome_ci_lo": 486063.5,
+    "incremental_outcome_mean": 541826.4375,
+    "spend": 529211.625,
+    "weekly_spend": 2646.05810546875
+  },
+  {
+    "spend_multiplier": 1.74,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 751690.4375,
+    "incremental_outcome_ci_lo": 672204.0,
+    "incremental_outcome_mean": 711549.0625,
+    "spend": 1025280.1875,
+    "weekly_spend": 5126.40087890625
+  },
+  {
+    "spend_multiplier": 1.75,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 465749.15625,
+    "incremental_outcome_ci_lo": 392564.78125,
+    "incremental_outcome_mean": 429311.46875,
+    "spend": 774754.75,
+    "weekly_spend": 3873.773681640625
+  },
+  {
+    "spend_multiplier": 1.75,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 598846.125,
+    "incremental_outcome_ci_lo": 487033.15625,
+    "incremental_outcome_mean": 543358.625,
+    "spend": 532253.0625,
+    "weekly_spend": 2661.265380859375
+  },
+  {
+    "spend_multiplier": 1.75,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 754660.875,
+    "incremental_outcome_ci_lo": 674587.5,
+    "incremental_outcome_mean": 714211.0625,
+    "spend": 1031172.625,
+    "weekly_spend": 5155.86328125
+  },
+  {
+    "spend_multiplier": 1.76,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 467504.625,
+    "incremental_outcome_ci_lo": 393866.15625,
+    "incremental_outcome_mean": 430774.28125,
+    "spend": 779181.9375,
+    "weekly_spend": 3895.90966796875
+  },
+  {
+    "spend_multiplier": 1.76,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 601003.0625,
+    "incremental_outcome_ci_lo": 488118.0625,
+    "incremental_outcome_mean": 544883.9375,
+    "spend": 535294.5,
+    "weekly_spend": 2676.472412109375
+  },
+  {
+    "spend_multiplier": 1.76,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 757539.0625,
+    "incremental_outcome_ci_lo": 676913.0,
+    "incremental_outcome_mean": 716861.4375,
+    "spend": 1037065.0625,
+    "weekly_spend": 5185.3251953125
+  },
+  {
+    "spend_multiplier": 1.77,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 469076.21875,
+    "incremental_outcome_ci_lo": 395036.28125,
+    "incremental_outcome_mean": 432231.03125,
+    "spend": 783609.0625,
+    "weekly_spend": 3918.04541015625
+  },
+  {
+    "spend_multiplier": 1.77,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 602854.1875,
+    "incremental_outcome_ci_lo": 489109.84375,
+    "incremental_outcome_mean": 546399.0,
+    "spend": 538335.9375,
+    "weekly_spend": 2691.6796875
+  },
+  {
+    "spend_multiplier": 1.77,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 760348.5625,
+    "incremental_outcome_ci_lo": 679251.75,
+    "incremental_outcome_mean": 719504.8125,
+    "spend": 1042957.4375,
+    "weekly_spend": 5214.787109375
+  },
+  {
+    "spend_multiplier": 1.78,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 470657.625,
+    "incremental_outcome_ci_lo": 396328.84375,
+    "incremental_outcome_mean": 433683.8125,
+    "spend": 788036.25,
+    "weekly_spend": 3940.18115234375
+  },
+  {
+    "spend_multiplier": 1.78,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 604808.0,
+    "incremental_outcome_ci_lo": 489986.34375,
+    "incremental_outcome_mean": 547907.125,
+    "spend": 541377.375,
+    "weekly_spend": 2706.886962890625
+  },
+  {
+    "spend_multiplier": 1.78,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 763180.0,
+    "incremental_outcome_ci_lo": 681595.0625,
+    "incremental_outcome_mean": 722133.125,
+    "spend": 1048849.875,
+    "weekly_spend": 5244.24951171875
+  },
+  {
+    "spend_multiplier": 1.79,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 472405.46875,
+    "incremental_outcome_ci_lo": 397690.4375,
+    "incremental_outcome_mean": 435128.28125,
+    "spend": 792463.4375,
+    "weekly_spend": 3962.317138671875
+  },
+  {
+    "spend_multiplier": 1.79,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 606738.5625,
+    "incremental_outcome_ci_lo": 491034.46875,
+    "incremental_outcome_mean": 549406.0,
+    "spend": 544418.8125,
+    "weekly_spend": 2722.093994140625
+  },
+  {
+    "spend_multiplier": 1.79,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 766043.8125,
+    "incremental_outcome_ci_lo": 684011.625,
+    "incremental_outcome_mean": 724755.3125,
+    "spend": 1054742.25,
+    "weekly_spend": 5273.71142578125
+  },
+  {
+    "spend_multiplier": 1.8,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 474158.59375,
+    "incremental_outcome_ci_lo": 398753.3125,
+    "incremental_outcome_mean": 436567.53125,
+    "spend": 796890.5625,
+    "weekly_spend": 3984.452880859375
+  },
+  {
+    "spend_multiplier": 1.8,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 608647.625,
+    "incremental_outcome_ci_lo": 492079.84375,
+    "incremental_outcome_mean": 550897.25,
+    "spend": 547460.25,
+    "weekly_spend": 2737.30126953125
+  },
+  {
+    "spend_multiplier": 1.8,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 768933.5625,
+    "incremental_outcome_ci_lo": 686468.6875,
+    "incremental_outcome_mean": 727368.25,
+    "spend": 1060634.625,
+    "weekly_spend": 5303.17333984375
+  },
+  {
+    "spend_multiplier": 1.81,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 475778.5625,
+    "incremental_outcome_ci_lo": 399941.75,
+    "incremental_outcome_mean": 438000.21875,
+    "spend": 801317.75,
+    "weekly_spend": 4006.5888671875
+  },
+  {
+    "spend_multiplier": 1.81,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 610609.3125,
+    "incremental_outcome_ci_lo": 493164.34375,
+    "incremental_outcome_mean": 552379.625,
+    "spend": 550501.6875,
+    "weekly_spend": 2752.508544921875
+  },
+  {
+    "spend_multiplier": 1.81,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 771734.9375,
+    "incremental_outcome_ci_lo": 688847.0625,
+    "incremental_outcome_mean": 729971.0625,
+    "spend": 1066527.125,
+    "weekly_spend": 5332.6357421875
+  },
+  {
+    "spend_multiplier": 1.82,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 477489.40625,
+    "incremental_outcome_ci_lo": 401212.59375,
+    "incremental_outcome_mean": 439427.5,
+    "spend": 805744.9375,
+    "weekly_spend": 4028.724609375
+  },
+  {
+    "spend_multiplier": 1.82,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 612572.625,
+    "incremental_outcome_ci_lo": 494273.65625,
+    "incremental_outcome_mean": 553854.625,
+    "spend": 553543.1875,
+    "weekly_spend": 2767.7158203125
+  },
+  {
+    "spend_multiplier": 1.82,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 774589.0,
+    "incremental_outcome_ci_lo": 691033.0,
+    "incremental_outcome_mean": 732564.5625,
+    "spend": 1072419.5,
+    "weekly_spend": 5362.09765625
+  },
+  {
+    "spend_multiplier": 1.83,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 479104.1875,
+    "incremental_outcome_ci_lo": 402475.0,
+    "incremental_outcome_mean": 440849.15625,
+    "spend": 810172.125,
+    "weekly_spend": 4050.860595703125
+  },
+  {
+    "spend_multiplier": 1.83,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 614533.5625,
+    "incremental_outcome_ci_lo": 495333.1875,
+    "incremental_outcome_mean": 555320.6875,
+    "spend": 556584.625,
+    "weekly_spend": 2782.923095703125
+  },
+  {
+    "spend_multiplier": 1.83,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 777484.0,
+    "incremental_outcome_ci_lo": 693319.875,
+    "incremental_outcome_mean": 735148.625,
+    "spend": 1078312.0,
+    "weekly_spend": 5391.56005859375
+  },
+  {
+    "spend_multiplier": 1.84,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 480814.34375,
+    "incremental_outcome_ci_lo": 403605.96875,
+    "incremental_outcome_mean": 442264.53125,
+    "spend": 814599.3125,
+    "weekly_spend": 4072.99658203125
+  },
+  {
+    "spend_multiplier": 1.84,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 616419.6875,
+    "incremental_outcome_ci_lo": 496309.4375,
+    "incremental_outcome_mean": 556779.75,
+    "spend": 559626.0625,
+    "weekly_spend": 2798.13037109375
+  },
+  {
+    "spend_multiplier": 1.84,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 780258.1875,
+    "incremental_outcome_ci_lo": 695508.125,
+    "incremental_outcome_mean": 737723.5625,
+    "spend": 1084204.375,
+    "weekly_spend": 5421.02197265625
+  },
+  {
+    "spend_multiplier": 1.85,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 482487.03125,
+    "incremental_outcome_ci_lo": 404842.5,
+    "incremental_outcome_mean": 443674.0625,
+    "spend": 819026.4375,
+    "weekly_spend": 4095.132080078125
+  },
+  {
+    "spend_multiplier": 1.85,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 618344.75,
+    "incremental_outcome_ci_lo": 497419.1875,
+    "incremental_outcome_mean": 558230.8125,
+    "spend": 562667.5,
+    "weekly_spend": 2813.33740234375
+  },
+  {
+    "spend_multiplier": 1.85,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 783114.5,
+    "incremental_outcome_ci_lo": 697737.9375,
+    "incremental_outcome_mean": 740288.375,
+    "spend": 1090096.75,
+    "weekly_spend": 5450.48388671875
+  },
+  {
+    "spend_multiplier": 1.86,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 484112.6875,
+    "incremental_outcome_ci_lo": 406048.40625,
+    "incremental_outcome_mean": 445077.53125,
+    "spend": 823453.625,
+    "weekly_spend": 4117.26806640625
+  },
+  {
+    "spend_multiplier": 1.86,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 620261.875,
+    "incremental_outcome_ci_lo": 498524.4375,
+    "incremental_outcome_mean": 559672.875,
+    "spend": 565708.9375,
+    "weekly_spend": 2828.544677734375
+  },
+  {
+    "spend_multiplier": 1.86,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 786011.75,
+    "incremental_outcome_ci_lo": 700079.3125,
+    "incremental_outcome_mean": 742845.6875,
+    "spend": 1095989.25,
+    "weekly_spend": 5479.9462890625
+  },
+  {
+    "spend_multiplier": 1.87,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 485714.25,
+    "incremental_outcome_ci_lo": 407189.375,
+    "incremental_outcome_mean": 446476.3125,
+    "spend": 827880.8125,
+    "weekly_spend": 4139.404296875
+  },
+  {
+    "spend_multiplier": 1.87,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 622084.8125,
+    "incremental_outcome_ci_lo": 499311.3125,
+    "incremental_outcome_mean": 561108.25,
+    "spend": 568750.375,
+    "weekly_spend": 2843.751953125
+  },
+  {
+    "spend_multiplier": 1.87,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 788764.3125,
+    "incremental_outcome_ci_lo": 702456.1875,
+    "incremental_outcome_mean": 745393.75,
+    "spend": 1101881.625,
+    "weekly_spend": 5509.408203125
+  },
+  {
+    "spend_multiplier": 1.8800000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 487294.96875,
+    "incremental_outcome_ci_lo": 408222.5,
+    "incremental_outcome_mean": 447868.5,
+    "spend": 832307.9375,
+    "weekly_spend": 4161.53955078125
+  },
+  {
+    "spend_multiplier": 1.8800000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 623884.3125,
+    "incremental_outcome_ci_lo": 500329.9375,
+    "incremental_outcome_mean": 562536.9375,
+    "spend": 571791.8125,
+    "weekly_spend": 2858.958984375
+  },
+  {
+    "spend_multiplier": 1.8800000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 791667.75,
+    "incremental_outcome_ci_lo": 704675.0625,
+    "incremental_outcome_mean": 747931.75,
+    "spend": 1107774.0,
+    "weekly_spend": 5538.8701171875
+  },
+  {
+    "spend_multiplier": 1.8900000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 488713.5625,
+    "incremental_outcome_ci_lo": 409373.09375,
+    "incremental_outcome_mean": 449254.875,
+    "spend": 836735.125,
+    "weekly_spend": 4183.67578125
+  },
+  {
+    "spend_multiplier": 1.8900000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 625626.875,
+    "incremental_outcome_ci_lo": 501465.90625,
+    "incremental_outcome_mean": 563956.1875,
+    "spend": 574833.25,
+    "weekly_spend": 2874.166259765625
+  },
+  {
+    "spend_multiplier": 1.8900000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 794535.0625,
+    "incremental_outcome_ci_lo": 707047.25,
+    "incremental_outcome_mean": 750460.6875,
+    "spend": 1113666.375,
+    "weekly_spend": 5568.33203125
+  },
+  {
+    "spend_multiplier": 1.9000000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 490322.6875,
+    "incremental_outcome_ci_lo": 410476.4375,
+    "incremental_outcome_mean": 450636.96875,
+    "spend": 841162.3125,
+    "weekly_spend": 4205.8115234375
+  },
+  {
+    "spend_multiplier": 1.9000000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 627433.0,
+    "incremental_outcome_ci_lo": 502444.25,
+    "incremental_outcome_mean": 565368.0,
+    "spend": 577874.75,
+    "weekly_spend": 2889.373779296875
+  },
+  {
+    "spend_multiplier": 1.9000000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 797373.0,
+    "incremental_outcome_ci_lo": 709332.125,
+    "incremental_outcome_mean": 752981.6875,
+    "spend": 1119558.875,
+    "weekly_spend": 5597.79443359375
+  },
+  {
+    "spend_multiplier": 1.9100000000000001,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 491949.5,
+    "incremental_outcome_ci_lo": 411698.125,
+    "incremental_outcome_mean": 452012.75,
+    "spend": 845589.4375,
+    "weekly_spend": 4227.947265625
+  },
+  {
+    "spend_multiplier": 1.9100000000000001,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 629131.0,
+    "incremental_outcome_ci_lo": 503317.875,
+    "incremental_outcome_mean": 566772.0625,
+    "spend": 580916.1875,
+    "weekly_spend": 2904.5810546875
+  },
+  {
+    "spend_multiplier": 1.9100000000000001,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 800096.5,
+    "incremental_outcome_ci_lo": 711541.375,
+    "incremental_outcome_mean": 755493.8125,
+    "spend": 1125451.25,
+    "weekly_spend": 5627.25634765625
+  },
+  {
+    "spend_multiplier": 1.92,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 493578.40625,
+    "incremental_outcome_ci_lo": 412879.40625,
+    "incremental_outcome_mean": 453383.09375,
+    "spend": 850016.625,
+    "weekly_spend": 4250.0830078125
+  },
+  {
+    "spend_multiplier": 1.92,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 630757.1875,
+    "incremental_outcome_ci_lo": 504085.96875,
+    "incremental_outcome_mean": 568170.0,
+    "spend": 583957.625,
+    "weekly_spend": 2919.7880859375
+  },
+  {
+    "spend_multiplier": 1.92,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 802805.5,
+    "incremental_outcome_ci_lo": 713747.125,
+    "incremental_outcome_mean": 757996.5625,
+    "spend": 1131343.625,
+    "weekly_spend": 5656.71826171875
+  },
+  {
+    "spend_multiplier": 1.93,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 495172.625,
+    "incremental_outcome_ci_lo": 413963.5625,
+    "incremental_outcome_mean": 454748.0,
+    "spend": 854443.8125,
+    "weekly_spend": 4272.21923828125
+  },
+  {
+    "spend_multiplier": 1.93,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 632586.0,
+    "incremental_outcome_ci_lo": 504956.03125,
+    "incremental_outcome_mean": 569558.875,
+    "spend": 586999.0625,
+    "weekly_spend": 2934.995361328125
+  },
+  {
+    "spend_multiplier": 1.93,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 805387.9375,
+    "incremental_outcome_ci_lo": 715983.5,
+    "incremental_outcome_mean": 760491.0,
+    "spend": 1137236.125,
+    "weekly_spend": 5686.1806640625
+  },
+  {
+    "spend_multiplier": 1.94,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 496824.46875,
+    "incremental_outcome_ci_lo": 415081.25,
+    "incremental_outcome_mean": 456107.03125,
+    "spend": 858871.0,
+    "weekly_spend": 4294.35498046875
+  },
+  {
+    "spend_multiplier": 1.94,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 634328.8125,
+    "incremental_outcome_ci_lo": 505775.40625,
+    "incremental_outcome_mean": 570942.1875,
+    "spend": 590040.5,
+    "weekly_spend": 2950.202392578125
+  },
+  {
+    "spend_multiplier": 1.94,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 807958.1875,
+    "incremental_outcome_ci_lo": 718278.875,
+    "incremental_outcome_mean": 762976.0625,
+    "spend": 1143128.5,
+    "weekly_spend": 5715.642578125
+  },
+  {
+    "spend_multiplier": 1.95,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 498369.40625,
+    "incremental_outcome_ci_lo": 416080.84375,
+    "incremental_outcome_mean": 457461.15625,
+    "spend": 863298.1875,
+    "weekly_spend": 4316.49072265625
+  },
+  {
+    "spend_multiplier": 1.95,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 636031.6875,
+    "incremental_outcome_ci_lo": 506677.625,
+    "incremental_outcome_mean": 572317.4375,
+    "spend": 593082.0,
+    "weekly_spend": 2965.409912109375
+  },
+  {
+    "spend_multiplier": 1.95,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 810639.875,
+    "incremental_outcome_ci_lo": 720504.875,
+    "incremental_outcome_mean": 765454.0,
+    "spend": 1149021.0,
+    "weekly_spend": 5745.10498046875
+  },
+  {
+    "spend_multiplier": 1.96,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 499896.96875,
+    "incremental_outcome_ci_lo": 417174.75,
+    "incremental_outcome_mean": 458809.90625,
+    "spend": 867725.3125,
+    "weekly_spend": 4338.62646484375
+  },
+  {
+    "spend_multiplier": 1.96,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 637904.875,
+    "incremental_outcome_ci_lo": 507488.71875,
+    "incremental_outcome_mean": 573685.9375,
+    "spend": 596123.4375,
+    "weekly_spend": 2980.6171875
+  },
+  {
+    "spend_multiplier": 1.96,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 813367.75,
+    "incremental_outcome_ci_lo": 722586.4375,
+    "incremental_outcome_mean": 767920.4375,
+    "spend": 1154913.375,
+    "weekly_spend": 5774.56689453125
+  },
+  {
+    "spend_multiplier": 1.97,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 501385.78125,
+    "incremental_outcome_ci_lo": 418356.84375,
+    "incremental_outcome_mean": 460152.34375,
+    "spend": 872152.5,
+    "weekly_spend": 4360.7626953125
+  },
+  {
+    "spend_multiplier": 1.97,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 639583.6875,
+    "incremental_outcome_ci_lo": 508394.96875,
+    "incremental_outcome_mean": 575047.5625,
+    "spend": 599164.875,
+    "weekly_spend": 2995.824462890625
+  },
+  {
+    "spend_multiplier": 1.97,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 816208.6875,
+    "incremental_outcome_ci_lo": 724888.375,
+    "incremental_outcome_mean": 770380.8125,
+    "spend": 1160805.75,
+    "weekly_spend": 5804.02880859375
+  },
+  {
+    "spend_multiplier": 1.98,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 502960.09375,
+    "incremental_outcome_ci_lo": 419433.3125,
+    "incremental_outcome_mean": 461491.375,
+    "spend": 876579.6875,
+    "weekly_spend": 4382.8984375
+  },
+  {
+    "spend_multiplier": 1.98,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 641515.3125,
+    "incremental_outcome_ci_lo": 509374.3125,
+    "incremental_outcome_mean": 576400.6875,
+    "spend": 602206.3125,
+    "weekly_spend": 3011.031494140625
+  },
+  {
+    "spend_multiplier": 1.98,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 818990.0625,
+    "incremental_outcome_ci_lo": 727062.6875,
+    "incremental_outcome_mean": 772832.25,
+    "spend": 1166698.125,
+    "weekly_spend": 5833.49072265625
+  },
+  {
+    "spend_multiplier": 1.99,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 504562.59375,
+    "incremental_outcome_ci_lo": 420498.0625,
+    "incremental_outcome_mean": 462823.21875,
+    "spend": 881006.8125,
+    "weekly_spend": 4405.0341796875
+  },
+  {
+    "spend_multiplier": 1.99,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 643439.125,
+    "incremental_outcome_ci_lo": 510386.78125,
+    "incremental_outcome_mean": 577748.25,
+    "spend": 605247.75,
+    "weekly_spend": 3026.23876953125
+  },
+  {
+    "spend_multiplier": 1.99,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 821744.6875,
+    "incremental_outcome_ci_lo": 729164.375,
+    "incremental_outcome_mean": 775274.0625,
+    "spend": 1172590.625,
+    "weekly_spend": 5862.953125
+  },
+  {
+    "spend_multiplier": 2.0,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 506058.125,
+    "incremental_outcome_ci_lo": 421601.625,
+    "incremental_outcome_mean": 464151.125,
+    "spend": 885434.0,
+    "weekly_spend": 4427.169921875
+  },
+  {
+    "spend_multiplier": 2.0,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 645293.0625,
+    "incremental_outcome_ci_lo": 511386.40625,
+    "incremental_outcome_mean": 579087.6875,
+    "spend": 608289.1875,
+    "weekly_spend": 3041.446044921875
+  },
+  {
+    "spend_multiplier": 2.0,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 824578.875,
+    "incremental_outcome_ci_lo": 731362.25,
+    "incremental_outcome_mean": 777708.625,
+    "spend": 1178483.0,
+    "weekly_spend": 5892.4150390625
+  },
+  {
+    "spend_multiplier": 2.0100000000000002,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 507528.46875,
+    "incremental_outcome_ci_lo": 422773.90625,
+    "incremental_outcome_mean": 465473.46875,
+    "spend": 889861.1875,
+    "weekly_spend": 4449.30615234375
+  },
+  {
+    "spend_multiplier": 2.0100000000000002,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 647129.9375,
+    "incremental_outcome_ci_lo": 512235.03125,
+    "incremental_outcome_mean": 580421.5,
+    "spend": 611330.625,
+    "weekly_spend": 3056.653076171875
+  },
+  {
+    "spend_multiplier": 2.0100000000000002,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 827327.0625,
+    "incremental_outcome_ci_lo": 733499.3125,
+    "incremental_outcome_mean": 780135.0625,
+    "spend": 1184375.375,
+    "weekly_spend": 5921.876953125
+  },
+  {
+    "spend_multiplier": 2.02,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 509164.875,
+    "incremental_outcome_ci_lo": 423718.28125,
+    "incremental_outcome_mean": 466790.375,
+    "spend": 894288.3125,
+    "weekly_spend": 4471.44140625
+  },
+  {
+    "spend_multiplier": 2.02,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 648925.5625,
+    "incremental_outcome_ci_lo": 512947.5,
+    "incremental_outcome_mean": 581746.6875,
+    "spend": 614372.0625,
+    "weekly_spend": 3071.8603515625
+  },
+  {
+    "spend_multiplier": 2.02,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 830025.4375,
+    "incremental_outcome_ci_lo": 735754.5,
+    "incremental_outcome_mean": 782553.0625,
+    "spend": 1190267.875,
+    "weekly_spend": 5951.33935546875
+  },
+  {
+    "spend_multiplier": 2.0300000000000002,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 510826.71875,
+    "incremental_outcome_ci_lo": 424753.53125,
+    "incremental_outcome_mean": 468103.28125,
+    "spend": 898715.5,
+    "weekly_spend": 4493.57763671875
+  },
+  {
+    "spend_multiplier": 2.0300000000000002,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 650514.75,
+    "incremental_outcome_ci_lo": 513972.125,
+    "incremental_outcome_mean": 583067.375,
+    "spend": 617413.5,
+    "weekly_spend": 3087.0673828125
+  },
+  {
+    "spend_multiplier": 2.0300000000000002,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 832696.8125,
+    "incremental_outcome_ci_lo": 737993.1875,
+    "incremental_outcome_mean": 784962.375,
+    "spend": 1196160.25,
+    "weekly_spend": 5980.80126953125
+  },
+  {
+    "spend_multiplier": 2.04,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 512449.0625,
+    "incremental_outcome_ci_lo": 425775.0,
+    "incremental_outcome_mean": 469410.5,
+    "spend": 903142.6875,
+    "weekly_spend": 4515.71337890625
+  },
+  {
+    "spend_multiplier": 2.04,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 652455.375,
+    "incremental_outcome_ci_lo": 514986.46875,
+    "incremental_outcome_mean": 584378.6875,
+    "spend": 620454.9375,
+    "weekly_spend": 3102.274658203125
+  },
+  {
+    "spend_multiplier": 2.04,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 835333.0625,
+    "incremental_outcome_ci_lo": 740051.3125,
+    "incremental_outcome_mean": 787362.9375,
+    "spend": 1202052.625,
+    "weekly_spend": 6010.26318359375
+  },
+  {
+    "spend_multiplier": 2.05,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 513967.71875,
+    "incremental_outcome_ci_lo": 426850.375,
+    "incremental_outcome_mean": 470712.03125,
+    "spend": 907569.8125,
+    "weekly_spend": 4537.84912109375
+  },
+  {
+    "spend_multiplier": 2.05,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 654116.125,
+    "incremental_outcome_ci_lo": 515675.09375,
+    "incremental_outcome_mean": 585685.0,
+    "spend": 623496.375,
+    "weekly_spend": 3117.48193359375
+  },
+  {
+    "spend_multiplier": 2.05,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 837928.125,
+    "incremental_outcome_ci_lo": 742111.5,
+    "incremental_outcome_mean": 789756.4375,
+    "spend": 1207945.0,
+    "weekly_spend": 6039.72509765625
+  },
+  {
+    "spend_multiplier": 2.06,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 515483.5,
+    "incremental_outcome_ci_lo": 427844.46875,
+    "incremental_outcome_mean": 472009.25,
+    "spend": 911997.0,
+    "weekly_spend": 4559.98486328125
+  },
+  {
+    "spend_multiplier": 2.06,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 655835.25,
+    "incremental_outcome_ci_lo": 516424.5,
+    "incremental_outcome_mean": 586984.8125,
+    "spend": 626537.875,
+    "weekly_spend": 3132.689453125
+  },
+  {
+    "spend_multiplier": 2.06,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 840651.375,
+    "incremental_outcome_ci_lo": 744244.6875,
+    "incremental_outcome_mean": 792142.3125,
+    "spend": 1213837.5,
+    "weekly_spend": 6069.1875
+  },
+  {
+    "spend_multiplier": 2.07,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 517045.09375,
+    "incremental_outcome_ci_lo": 428890.8125,
+    "incremental_outcome_mean": 473300.6875,
+    "spend": 916424.1875,
+    "weekly_spend": 4582.12109375
+  },
+  {
+    "spend_multiplier": 2.07,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 657313.1875,
+    "incremental_outcome_ci_lo": 517298.65625,
+    "incremental_outcome_mean": 588276.625,
+    "spend": 629579.3125,
+    "weekly_spend": 3147.896484375
+  },
+  {
+    "spend_multiplier": 2.07,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 843325.6875,
+    "incremental_outcome_ci_lo": 746358.5,
+    "incremental_outcome_mean": 794518.625,
+    "spend": 1219729.875,
+    "weekly_spend": 6098.6494140625
+  },
+  {
+    "spend_multiplier": 2.08,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 518685.59375,
+    "incremental_outcome_ci_lo": 429911.71875,
+    "incremental_outcome_mean": 474587.78125,
+    "spend": 920851.3125,
+    "weekly_spend": 4604.25634765625
+  },
+  {
+    "spend_multiplier": 2.08,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 658917.25,
+    "incremental_outcome_ci_lo": 518192.4375,
+    "incremental_outcome_mean": 589562.875,
+    "spend": 632620.75,
+    "weekly_spend": 3163.103759765625
+  },
+  {
+    "spend_multiplier": 2.08,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 846052.625,
+    "incremental_outcome_ci_lo": 748481.6875,
+    "incremental_outcome_mean": 796888.375,
+    "spend": 1225622.25,
+    "weekly_spend": 6128.111328125
+  },
+  {
+    "spend_multiplier": 2.09,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 520240.65625,
+    "incremental_outcome_ci_lo": 430994.65625,
+    "incremental_outcome_mean": 475869.375,
+    "spend": 925278.5,
+    "weekly_spend": 4626.392578125
+  },
+  {
+    "spend_multiplier": 2.09,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 660551.25,
+    "incremental_outcome_ci_lo": 519089.28125,
+    "incremental_outcome_mean": 590843.25,
+    "spend": 635662.1875,
+    "weekly_spend": 3178.31103515625
+  },
+  {
+    "spend_multiplier": 2.09,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 848749.125,
+    "incremental_outcome_ci_lo": 750597.4375,
+    "incremental_outcome_mean": 799249.125,
+    "spend": 1231514.625,
+    "weekly_spend": 6157.5732421875
+  },
+  {
+    "spend_multiplier": 2.1,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 521719.0625,
+    "incremental_outcome_ci_lo": 432079.34375,
+    "incremental_outcome_mean": 477147.53125,
+    "spend": 929705.6875,
+    "weekly_spend": 4648.5283203125
+  },
+  {
+    "spend_multiplier": 2.1,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 662320.1875,
+    "incremental_outcome_ci_lo": 519974.3125,
+    "incremental_outcome_mean": 592117.0625,
+    "spend": 638703.625,
+    "weekly_spend": 3193.51806640625
+  },
+  {
+    "spend_multiplier": 2.1,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 851226.9375,
+    "incremental_outcome_ci_lo": 752736.5625,
+    "incremental_outcome_mean": 801604.5,
+    "spend": 1237407.125,
+    "weekly_spend": 6187.03564453125
+  },
+  {
+    "spend_multiplier": 2.11,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 523207.625,
+    "incremental_outcome_ci_lo": 433137.25,
+    "incremental_outcome_mean": 478419.40625,
+    "spend": 934132.8125,
+    "weekly_spend": 4670.6640625
+  },
+  {
+    "spend_multiplier": 2.11,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 664169.375,
+    "incremental_outcome_ci_lo": 520848.34375,
+    "incremental_outcome_mean": 593383.25,
+    "spend": 641745.0625,
+    "weekly_spend": 3208.725341796875
+  },
+  {
+    "spend_multiplier": 2.11,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 853870.8125,
+    "incremental_outcome_ci_lo": 754916.6875,
+    "incremental_outcome_mean": 803948.125,
+    "spend": 1243299.5,
+    "weekly_spend": 6216.49755859375
+  },
+  {
+    "spend_multiplier": 2.12,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 524692.1875,
+    "incremental_outcome_ci_lo": 434186.4375,
+    "incremental_outcome_mean": 479686.4375,
+    "spend": 938560.0,
+    "weekly_spend": 4692.7998046875
+  },
+  {
+    "spend_multiplier": 2.12,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 665932.9375,
+    "incremental_outcome_ci_lo": 521708.03125,
+    "incremental_outcome_mean": 594643.4375,
+    "spend": 644786.5,
+    "weekly_spend": 3223.9326171875
+  },
+  {
+    "spend_multiplier": 2.12,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 856516.5625,
+    "incremental_outcome_ci_lo": 756947.125,
+    "incremental_outcome_mean": 806286.875,
+    "spend": 1249191.875,
+    "weekly_spend": 6245.95947265625
+  },
+  {
+    "spend_multiplier": 2.13,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 526171.5,
+    "incremental_outcome_ci_lo": 435227.03125,
+    "incremental_outcome_mean": 480949.59375,
+    "spend": 942987.25,
+    "weekly_spend": 4714.93603515625
+  },
+  {
+    "spend_multiplier": 2.13,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 667555.75,
+    "incremental_outcome_ci_lo": 522510.03125,
+    "incremental_outcome_mean": 595897.625,
+    "spend": 647828.0,
+    "weekly_spend": 3239.139892578125
+  },
+  {
+    "spend_multiplier": 2.13,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 859194.875,
+    "incremental_outcome_ci_lo": 758966.625,
+    "incremental_outcome_mean": 808615.875,
+    "spend": 1255084.5,
+    "weekly_spend": 6275.42236328125
+  },
+  {
+    "spend_multiplier": 2.14,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 527688.3125,
+    "incremental_outcome_ci_lo": 436271.1875,
+    "incremental_outcome_mean": 482207.59375,
+    "spend": 947414.4375,
+    "weekly_spend": 4737.072265625
+  },
+  {
+    "spend_multiplier": 2.14,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 669208.8125,
+    "incremental_outcome_ci_lo": 523312.84375,
+    "incremental_outcome_mean": 597145.875,
+    "spend": 650869.4375,
+    "weekly_spend": 3254.34716796875
+  },
+  {
+    "spend_multiplier": 2.14,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 861813.5625,
+    "incremental_outcome_ci_lo": 761006.125,
+    "incremental_outcome_mean": 810937.875,
+    "spend": 1260976.875,
+    "weekly_spend": 6304.88427734375
+  },
+  {
+    "spend_multiplier": 2.15,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 529199.625,
+    "incremental_outcome_ci_lo": 437262.625,
+    "incremental_outcome_mean": 483461.15625,
+    "spend": 951841.5625,
+    "weekly_spend": 4759.2080078125
+  },
+  {
+    "spend_multiplier": 2.15,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 670769.6875,
+    "incremental_outcome_ci_lo": 524108.1875,
+    "incremental_outcome_mean": 598388.875,
+    "spend": 653910.875,
+    "weekly_spend": 3269.554443359375
+  },
+  {
+    "spend_multiplier": 2.15,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 864435.125,
+    "incremental_outcome_ci_lo": 762967.625,
+    "incremental_outcome_mean": 813252.125,
+    "spend": 1266869.25,
+    "weekly_spend": 6334.34619140625
+  },
+  {
+    "spend_multiplier": 2.16,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 530706.125,
+    "incremental_outcome_ci_lo": 438258.625,
+    "incremental_outcome_mean": 484710.375,
+    "spend": 956268.75,
+    "weekly_spend": 4781.34375
+  },
+  {
+    "spend_multiplier": 2.16,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 672378.1875,
+    "incremental_outcome_ci_lo": 524905.375,
+    "incremental_outcome_mean": 599624.8125,
+    "spend": 656952.375,
+    "weekly_spend": 3284.761962890625
+  },
+  {
+    "spend_multiplier": 2.16,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 867123.0,
+    "incremental_outcome_ci_lo": 764911.5625,
+    "incremental_outcome_mean": 815559.75,
+    "spend": 1272761.75,
+    "weekly_spend": 6363.80859375
+  },
+  {
+    "spend_multiplier": 2.17,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 532110.75,
+    "incremental_outcome_ci_lo": 439207.625,
+    "incremental_outcome_mean": 485953.4375,
+    "spend": 960695.9375,
+    "weekly_spend": 4803.4794921875
+  },
+  {
+    "spend_multiplier": 2.17,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 674085.25,
+    "incremental_outcome_ci_lo": 525697.75,
+    "incremental_outcome_mean": 600852.75,
+    "spend": 659993.8125,
+    "weekly_spend": 3299.968994140625
+  },
+  {
+    "spend_multiplier": 2.17,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 869785.75,
+    "incremental_outcome_ci_lo": 766857.4375,
+    "incremental_outcome_mean": 817858.0,
+    "spend": 1278654.125,
+    "weekly_spend": 6393.2705078125
+  },
+  {
+    "spend_multiplier": 2.18,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 533509.0,
+    "incremental_outcome_ci_lo": 440178.625,
+    "incremental_outcome_mean": 487192.75,
+    "spend": 965123.0625,
+    "weekly_spend": 4825.615234375
+  },
+  {
+    "spend_multiplier": 2.18,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 675692.0625,
+    "incremental_outcome_ci_lo": 526485.4375,
+    "incremental_outcome_mean": 602077.3125,
+    "spend": 663035.25,
+    "weekly_spend": 3315.17626953125
+  },
+  {
+    "spend_multiplier": 2.18,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 872356.5625,
+    "incremental_outcome_ci_lo": 768778.0,
+    "incremental_outcome_mean": 820150.625,
+    "spend": 1284546.5,
+    "weekly_spend": 6422.732421875
+  },
+  {
+    "spend_multiplier": 2.19,
+    "channel": "Facebook",
+    "incremental_outcome_ci_hi": 534985.875,
+    "incremental_outcome_ci_lo": 441128.59375,
+    "incremental_outcome_mean": 488428.09375,
+    "spend": 969550.25,
+    "weekly_spend": 4847.75146484375
+  },
+  {
+    "spend_multiplier": 2.19,
+    "channel": "Google Ads",
+    "incremental_outcome_ci_hi": 677292.375,
+    "incremental_outcome_ci_lo": 527229.25,
+    "incremental_outcome_mean": 603295.4375,
+    "spend": 666076.6875,
+    "weekly_spend": 3330.383544921875
+  },
+  {
+    "spend_multiplier": 2.19,
+    "channel": "TikTok",
+    "incremental_outcome_ci_hi": 874867.625,
+    "incremental_outcome_ci_lo": 770793.5625,
+    "incremental_outcome_mean": 822436.625,
+    "spend": 1290438.875,
+    "weekly_spend": 6452.1943359375
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "model": "Ridge regression on adstock+saturation transformed channel spend",
+  "test_r2": 0.9272,
+  "test_mape_pct": 4.74,
+  "n_weeks_total": 200,
+  "n_weeks_test": 40,
+  "adstock_saturation_params": {
+    "TikTok": {
+      "decay": 0.3,
+      "alpha": 0.5
+    },
+    "Facebook": {
+      "decay": 0.3,
+      "alpha": 1.0
+    },
+    "Google Ads": {
+      "decay": 0.1,
+      "alpha": 1.0
+    }
+  },
+  "budget_recommendation": {
+    "highest_roi_channel": "Google Ads",
+    "highest_roi_value": 0.331,
+    "lowest_roi_channel": "Facebook",
+    "lowest_roi_value": 0.253,
+    "recommendation": "Reallocate a portion of weekly budget from Facebook (ROI 0.25x) toward Google Ads (ROI 0.33x), subject to the diminishing-returns curve for Google Ads \u2014 see response_curves.png for the point where additional spend stops paying off."
+  }
+}

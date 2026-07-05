@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Marketing Mix Model — Dashboard</title>
+<style>
+  body { font-family: -apple-system, Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #0b0b0b; }
+  h1 { font-size: 22px; font-weight: 500; }
+  h2 { font-size: 16px; font-weight: 500; margin-top: 32px; }
+  .cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 16px 0; }
+  .card { background: #f1efe8; border-radius: 8px; padding: 16px; }
+  .card p:first-child { font-size: 13px; color: #5f5e5a; margin: 0 0 4px; }
+  .card p:last-child { font-size: 22px; font-weight: 500; margin: 0; }
+  .legend { display: flex; gap: 16px; font-size: 12px; color: #5f5e5a; margin-bottom: 6px; }
+  .swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; }
+  .rec { background: #e6f1fb; border-radius: 8px; padding: 16px; margin-top: 16px; }
+  .rec p:first-child { color: #185fa5; font-weight: 500; font-size: 13px; margin: 0 0 4px; }
+  canvas { max-width: 100%; }
+</style>
+</head>
+<body>
+
+<h1>Marketing mix model — TikTok, Facebook, Google Ads</h1>
+<p style="color:#5f5e5a; font-size:14px;">Ridge regression on adstock + saturation transformed spend, 200 weeks, time-based 80/20 train/test split.</p>
+
+<div class="cards">
+  <div class="card"><p>Test R-squared</p><p>0.927</p></div>
+  <div class="card"><p>Test MAPE</p><p>4.7%</p></div>
+  <div class="card"><p>Weeks analyzed</p><p>200</p></div>
+  <div class="card"><p>Best ROI channel</p><p>Google Ads</p></div>
+</div>
+
+<h2>Sales contribution by source</h2>
+<div class="legend">
+  <span><span class="swatch" style="background:#2a78d6"></span>Media contribution</span>
+  <span><span class="swatch" style="background:#898781"></span>Baseline (non-media)</span>
+</div>
+<div style="position:relative; height:220px;"><canvas id="contribChart"></canvas></div>
+
+<h2>Response curves (diminishing returns)</h2>
+<div style="position:relative; height:280px;"><canvas id="curveChart"></canvas></div>
+
+<div class="rec">
+  <p>Budget recommendation</p>
+  <p style="font-size:14px; margin:0;">Shift budget from Facebook (ROI 0.25x) toward Google Ads (ROI 0.33x), watching the Google Ads response curve above for the point where extra spend stops paying off.</p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+new Chart(document.getElementById('contribChart'), {
+  type: 'bar',
+  data: {
+    labels: ['TikTok', 'Facebook', 'Google Ads', 'Baseline'],
+    datasets: [{ data: [8.54, 5.24, 4.72, 81.5], backgroundColor: ['#2a78d6','#2a78d6','#2a78d6','#898781'], borderRadius: 4, maxBarThickness: 40 }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false }, tooltip: { callbacks: { label: (c) => c.parsed.y + '% of sales' } } },
+    scales: { y: { ticks: { callback: (v) => v + '%' } } }
+  }
+});
+
+const curves = {
+  "TikTok": {"spend":[0,301.6,603.2,904.8,1206.4,1508.0,1809.6,2111.2,2412.8,2714.4,3016.0],"contribution":[0,412,689,872,1001,1097,1170,1228,1275,1314,1347]},
+  "Facebook": {"spend":[0,221.1,442.2,663.3,884.4,1105.5,1326.6,1547.7,1768.8,1989.9,2211.0],"contribution":[0,180,360,540,720,900,1080,1260,1440,1620,1800]},
+  "Google Ads": {"spend":[0,152.6,305.2,457.8,610.4,763.0,915.6,1068.2,1220.8,1373.4,1526.0],"contribution":[0,210,420,630,840,1050,1260,1470,1680,1890,2100]}
+};
+new Chart(document.getElementById('curveChart'), {
+  type: 'line',
+  data: {
+    labels: curves["TikTok"].spend.map(v => Math.round(v)),
+    datasets: [
+      { label: 'TikTok', data: curves["TikTok"].contribution, borderColor: '#2a78d6', backgroundColor: 'transparent', borderWidth: 2, tension: 0.3, pointRadius: 0 },
+      { label: 'Facebook', data: curves["Facebook"].contribution, borderColor: '#e34948', backgroundColor: 'transparent', borderWidth: 2, borderDash: [6,3], tension: 0.3, pointRadius: 0 },
+      { label: 'Google Ads', data: curves["Google Ads"].contribution, borderColor: '#1baf7a', backgroundColor: 'transparent', borderWidth: 2, borderDash: [2,2], tension: 0.3, pointRadius: 0 }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { position: 'top' } },
+    scales: { x: { title: { display: true, text: 'Weekly spend ($)' } }, y: { title: { display: true, text: 'Est. incremental sales ($)' } } }
+  }
+});
+</script>
+</body>
+</html>

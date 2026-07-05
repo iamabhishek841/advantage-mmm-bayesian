@@ -1,0 +1,161 @@
+{
+  "model": "Google Meridian Bayesian MMM",
+  "data": {
+    "source": "data\\marketing_mix.csv",
+    "meridian_input": "data\\meridian_input.csv",
+    "n_weeks": 200,
+    "date_start": "2018-01-07",
+    "date_end": "2021-10-31",
+    "channels": [
+      "TikTok",
+      "Facebook",
+      "Google Ads"
+    ],
+    "media_execution_proxy": "Spend is duplicated as media execution because impressions/clicks are unavailable.",
+    "controls": [
+      "trend",
+      "week_sin",
+      "week_cos"
+    ]
+  },
+  "model_spec": {
+    "knots": 12,
+    "max_lag": 8,
+    "media_prior_type": "roi",
+    "roi_prior_mean_per_channel": 0.45,
+    "roi_prior_sd_per_channel": 0.45,
+    "adstock_decay_spec": "geometric",
+    "saturation_spec": "hill"
+  },
+  "sampling": {
+    "n_chains": 4,
+    "n_adapt": 1000,
+    "n_burnin": 500,
+    "n_keep": 1000,
+    "prior_draws": 1000,
+    "seed": 20260705,
+    "max_tree_depth": 8,
+    "confidence_level": 0.9,
+    "elapsed_seconds": 177.53
+  },
+  "diagnostics": {
+    "groups": [
+      "posterior",
+      "sample_stats",
+      "prior",
+      "trace"
+    ],
+    "rhat": {
+      "max": 1.0073982085425903,
+      "mean": 1.0062740006646003,
+      "n_parameters_over_1_10": 0,
+      "n_parameters_over_1_20": 0
+    },
+    "divergences": 0
+  },
+  "posterior_channel_summary": [
+    {
+      "channel": "TikTok",
+      "total_spend": 589241.5,
+      "incremental_outcome_mean": 482158.375,
+      "incremental_outcome_ci_lo": 457890.6875,
+      "incremental_outcome_ci_hi": 506899.625,
+      "roi_mean": 0.8182706236839294,
+      "roi_ci_lo": 0.7770849466323853,
+      "roi_ci_hi": 0.8602578639984131,
+      "pct_of_contribution_mean": 22.59746551513672,
+      "pct_of_contribution_ci_lo": 21.460079193115234,
+      "pct_of_contribution_ci_hi": 23.756996154785156,
+      "credible_interval": "90%"
+    },
+    {
+      "channel": "Facebook",
+      "total_spend": 442717.0,
+      "incremental_outcome_mean": 297904.1875,
+      "incremental_outcome_ci_lo": 275621.5,
+      "incremental_outcome_ci_hi": 319832.46875,
+      "roi_mean": 0.6729004383087158,
+      "roi_ci_lo": 0.6225681304931641,
+      "roi_ci_hi": 0.722430944442749,
+      "pct_of_contribution_mean": 13.96194839477539,
+      "pct_of_contribution_ci_lo": 12.917623519897461,
+      "pct_of_contribution_ci_hi": 14.989670753479004,
+      "credible_interval": "90%"
+    },
+    {
+      "channel": "Google Ads",
+      "total_spend": 304144.59375,
+      "incremental_outcome_mean": 397946.8125,
+      "incremental_outcome_ci_lo": 370264.28125,
+      "incremental_outcome_ci_hi": 429687.0625,
+      "roi_mean": 1.3084160089492798,
+      "roi_ci_lo": 1.2173956632614136,
+      "roi_ci_hi": 1.412772297859192,
+      "pct_of_contribution_mean": 18.650663375854492,
+      "pct_of_contribution_ci_lo": 17.353271484375,
+      "pct_of_contribution_ci_hi": 20.138256072998047,
+      "credible_interval": "90%"
+    }
+  ],
+  "comparison": {
+    "ranking": {
+      "ridge_roi_rank_high_to_low": [
+        "Google Ads",
+        "TikTok",
+        "Facebook"
+      ],
+      "meridian_roi_rank_high_to_low": [
+        "Google Ads",
+        "TikTok",
+        "Facebook"
+      ],
+      "highest_roi_agrees": true,
+      "lowest_roi_agrees": true,
+      "ridge_highest_roi_channel": "Google Ads",
+      "ridge_lowest_roi_channel": "Facebook",
+      "meridian_highest_roi_channel": "Google Ads",
+      "meridian_lowest_roi_channel": "Facebook"
+    },
+    "rows": [
+      {
+        "channel": "TikTok",
+        "ridge_contribution": 182133.85,
+        "incremental_outcome_mean": 482158.375,
+        "incremental_outcome_ci_lo": 457890.6875,
+        "incremental_outcome_ci_hi": 506899.625,
+        "ridge_roi": 0.309,
+        "roi_mean": 0.8182706236839294,
+        "roi_ci_lo": 0.7770849466323853,
+        "roi_ci_hi": 0.8602578639984131,
+        "ridge_pct_of_sales": 8.54,
+        "pct_of_contribution_mean": 22.59746551513672
+      },
+      {
+        "channel": "Facebook",
+        "ridge_contribution": 111881.07,
+        "incremental_outcome_mean": 297904.1875,
+        "incremental_outcome_ci_lo": 275621.5,
+        "incremental_outcome_ci_hi": 319832.46875,
+        "ridge_roi": 0.253,
+        "roi_mean": 0.6729004383087158,
+        "roi_ci_lo": 0.6225681304931641,
+        "roi_ci_hi": 0.722430944442749,
+        "ridge_pct_of_sales": 5.24,
+        "pct_of_contribution_mean": 13.96194839477539
+      },
+      {
+        "channel": "Google Ads",
+        "ridge_contribution": 100766.17,
+        "incremental_outcome_mean": 397946.8125,
+        "incremental_outcome_ci_lo": 370264.28125,
+        "incremental_outcome_ci_hi": 429687.0625,
+        "ridge_roi": 0.331,
+        "roi_mean": 1.3084160089492798,
+        "roi_ci_lo": 1.2173956632614136,
+        "roi_ci_hi": 1.412772297859192,
+        "ridge_pct_of_sales": 4.72,
+        "pct_of_contribution_mean": 18.650663375854492
+      }
+    ]
+  }
+}

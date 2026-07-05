@@ -1,0 +1,12 @@
+.venv/
+.matplotlib/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+*.log
+.DS_Store
+Thumbs.db
