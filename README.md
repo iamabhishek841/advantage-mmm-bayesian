@@ -135,19 +135,33 @@ output/meridian_channel_contribution_summary.csv
 output/meridian_response_curves.csv
 output/ridge_vs_meridian_comparison.csv
 output/*.png                           Generated charts
-requirements.txt                       Exact pinned dependency set
+requirements.txt                       Lightweight Streamlit Cloud dependencies
+requirements-model.txt                 Full local Ridge + Meridian training environment
+runtime.txt                            Streamlit Cloud Python version pin
 ```
 
 ## Running
 
-Use Python 3.12. Meridian 1.7.0 is version-sensitive and should not be installed
-into Python 3.14.
+For the hosted Streamlit dashboard, Streamlit Cloud installs `requirements.txt`.
+That file is intentionally lightweight because the dashboard reads the committed
+CSV and JSON outputs instead of fitting Meridian during app startup.
+
+For local model training, use Python 3.12. Meridian 1.7.0 is version-sensitive
+and should not be installed into Python 3.14.
+
+```bash
+python -m venv .venv
+.venv/Scripts/python -m pip install -r requirements-model.txt
+.venv/Scripts/python src/mmm_pipeline.py
+.venv/Scripts/python src/meridian_pipeline.py
+.venv/Scripts/python -m streamlit run app.py
+```
+
+To run only the dashboard locally, install the deploy dependencies:
 
 ```bash
 python -m venv .venv
 .venv/Scripts/python -m pip install -r requirements.txt
-.venv/Scripts/python src/mmm_pipeline.py
-.venv/Scripts/python src/meridian_pipeline.py
 .venv/Scripts/python -m streamlit run app.py
 ```
 
